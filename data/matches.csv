@@ -1,1074 +1,1085 @@
-id,date,home,team_1,team_1_score,team_2,team_2_score,won
-400277722,2013-10-30,False,Boston Celtics,107,Miami,120,False
-400277737,2013-11-02,True,Boston Celtics,99,Milwaukee,88,False
-400277747,2013-11-03,False,Boston Celtics,86,Washington,89,True
-400277774,2013-11-07,True,Boston Celtics,100,Washington,94,True
-400277790,2013-11-09,True,Boston Celtics,106,Philadelphia,100,False
-400277806,2013-11-10,False,Boston Celtics,92,Milwaukee,96,True
-400277818,2013-11-12,False,Boston Celtics,95,Chicago,101,True
-400277830,2013-11-14,True,Boston Celtics,98,Utah,93,True
-400277839,2013-11-15,False,Boston Celtics,97,Brooklyn,102,False
-400277851,2013-11-17,True,Boston Celtics,107,Toronto,89,True
-400277864,2013-11-18,False,Boston Celtics,83,Detroit,103,False
-400277881,2013-11-21,True,Boston Celtics,112,San Antonio,100,False
-400277893,2013-11-23,True,Boston Celtics,108,Oklahoma City,100,True
-400277915,2013-11-25,False,Boston Celtics,110,Orlando,116,True
-400277931,2013-11-28,True,Boston Celtics,95,Brooklyn,83,False
-400277945,2013-11-30,True,Boston Celtics,96,Portland,78,True
-400277958,2013-12-01,False,Boston Celtics,88,Milwaukee,91,False
-400277979,2013-12-05,True,Boston Celtics,104,Minnesota,94,True
-400277990,2013-12-07,False,Boston Celtics,94,Philadelphia,95,False
-400278005,2013-12-08,True,Boston Celtics,92,Philadelphia,79,True
-400278035,2013-12-12,True,Boston Celtics,117,Dallas,115,True
-400278052,2013-12-14,False,Boston Celtics,89,Houston,101,False
-400278064,2013-12-15,False,Boston Celtics,88,San Antonio,103,False
-400278080,2013-12-18,False,Boston Celtics,89,Chicago,100,False
-400278090,2013-12-19,True,Boston Celtics,103,Cleveland,91,True
-400278102,2013-12-21,True,Boston Celtics,99,Milwaukee,94,False
-400278125,2013-12-25,False,Boston Celtics,76,Brooklyn,93,True
-400278144,2013-12-27,False,Boston Celtics,77,Los Angeles,106,False
-400278167,2013-12-29,False,Boston Celtics,83,Golden State,101,False
-400278170,2013-12-30,False,Boston Celtics,96,Sacramento,118,False
-400278188,2013-01-02,True,Boston Celtics,93,Memphis,83,False
-400278203,2013-01-04,True,Boston Celtics,94,Indiana,75,True
-400278209,2013-01-05,False,Boston Celtics,81,Atlanta,89,True
-400278225,2013-01-07,False,Boston Celtics,96,NY Knicks,102,True
-400278239,2013-01-09,True,Boston Celtics,87,Phoenix,79,True
-400278251,2013-01-11,True,Boston Celtics,103,Houston,91,True
-400278277,2013-01-14,True,Boston Celtics,100,Charlotte,89,True
-400278293,2013-01-16,True,Boston Celtics,90,New Orleans,78,False
-400278304,2013-01-18,True,Boston Celtics,100,Chicago,99,False
-400278323,2013-01-20,False,Boston Celtics,88,Detroit,103,False
-400278334,2013-01-22,False,Boston Celtics,90,Cleveland,95,False
-400278350,2013-01-24,True,Boston Celtics,89,NY Knicks,86,False
-400278353,2013-01-25,False,Boston Celtics,111,Atlanta,123,False
-400278372,2013-01-27,True,Boston Celtics,100,Miami,98,True
-400278392,2013-01-30,True,Boston Celtics,99,Sacramento,81,True
-400278406,2013-02-01,True,Boston Celtics,97,Orlando,84,True
-400278425,2013-02-03,True,Boston Celtics,106,Los Angeles,104,True
-400278440,2013-02-06,False,Boston Celtics,95,Toronto,99,True
-400278453,2013-02-07,True,Boston Celtics,116,Los Angeles,95,True
-400278474,2013-02-10,True,Boston Celtics,118,Denver,114,True
-400278482,2013-02-11,False,Boston Celtics,91,Charlotte,94,False
-400278498,2013-02-13,True,Boston Celtics,71,Chicago,69,True
-400278514,2013-02-19,False,Boston Celtics,90,Denver,97,False
-400278527,2013-02-20,False,Boston Celtics,99,Los Angeles,113,False
-400278540,2013-02-22,False,Boston Celtics,88,Phoenix,113,True
-400278557,2013-02-24,False,Boston Celtics,86,Portland,92,False
-400278562,2013-02-25,False,Boston Celtics,107,Utah,110,True
-400278587,2013-03-01,True,Boston Celtics,94,Golden State,86,True
-400278616,2013-03-05,False,Boston Celtics,101,Philadelphia,109,True
-400278621,2013-03-06,False,Boston Celtics,81,Indiana,83,True
-400278637,2013-03-08,True,Boston Celtics,107,Atlanta,102,True
-400278654,2013-03-10,False,Boston Celtics,79,Oklahoma City,91,False
-400278668,2013-03-12,False,Boston Celtics,74,Charlotte,100,False
-400278679,2013-03-13,True,Boston Celtics,112,Toronto,88,True
-400278700,2013-03-16,True,Boston Celtics,105,Charlotte,88,True
-400278718,2013-03-18,True,Boston Celtics,105,Miami,103,False
-400278733,2013-03-20,False,Boston Celtics,86,New Orleans,87,False
-400278749,2013-03-22,False,Boston Celtics,94,Dallas,104,False
-400278756,2013-03-23,False,Boston Celtics,106,Memphis,110,False
-400278774,2013-03-26,True,Boston Celtics,100,NY Knicks,85,False
-400278780,2013-03-27,False,Boston Celtics,92,Cleveland,93,True
-400277749,2013-03-29,True,Boston Celtics,107,Atlanta,100,True
-400277763,2013-03-31,False,Boston Celtics,107,NY Knicks,96,False
-400277776,2013-04-01,False,Boston Celtics,73,Minnesota,103,False
-400277789,2013-04-03,True,Boston Celtics,68,Detroit,107,True
-400277810,2013-04-05,True,Boston Celtics,82,Cleveland,74,True
-400277826,2013-04-07,True,Boston Celtics,114,Washington,101,True
-400277862,2013-04-12,False,Boston Celtics,90,Miami,99,True
-400277876,2013-04-13,False,Boston Celtics,90,Orlando,95,False
-400277890,2013-04-16,True,Boston Celtics,93,Indiana,102,False
-400277894,2013-04-17,False,Boston Celtics,86,Toronto,76,True
-400277913,2013-11-01,True,Boston Celtics,98,NY Knicks,85,True
-400431053,2013-11-03,True,Boston Celtics,96,Toronto,89,True
-400277944,2013-11-07,False,Boston Celtics,86,Miami,98,True
-400277953,2013-11-09,False,Boston Celtics,89,Orlando,102,False
-400277973,2013-11-11,True,Boston Celtics,117,Orlando,111,False
-400277992,2013-11-13,True,Boston Celtics,109,Cleveland,102,False
-400278013,2013-11-15,True,Boston Celtics,97,Boston,88,False
-400278024,2013-11-18,False,Boston Celtics,100,Sacramento,97,False
-400278029,2013-11-20,False,Brooklyn Nets,88,Los Angeles,94,True
-400278048,2013-11-21,False,Brooklyn Nets,107,Golden State,105,True
-400278061,2013-11-23,True,Brooklyn Nets,82,Los Angeles,83,False
-400278078,2013-11-25,True,Brooklyn Nets,92,Portland,90,False
-400278087,2013-11-26,True,Brooklyn Nets,86,NY Knicks,100,False
-400278119,2013-11-28,False,Brooklyn Nets,95,Boston,92,True
-400278135,2013-12-01,False,Brooklyn Nets,93,Miami,108,False
-400278147,2013-12-04,True,Brooklyn Nets,97,Oklahoma City,81,True
-400278160,2013-12-07,True,Brooklyn Nets,103,Golden State,100,True
-400278177,2013-12-09,True,Brooklyn Nets,73,Milwaukee,104,False
-400278192,2013-12-11,True,Brooklyn Nets,93,NY Knicks,110,True
-400278199,2013-12-12,False,Brooklyn Nets,113,Toronto,115,True
-400278212,2013-12-14,True,Brooklyn Nets,113,Detroit,93,True
-400278231,2013-12-15,False,Brooklyn Nets,89,Chicago,109,True
-400278252,2013-12-18,True,Brooklyn Nets,99,Utah,79,True
-400278271,2013-12-19,False,Brooklyn Nets,97,NY Knicks,86,True
-400278286,2013-12-23,True,Brooklyn Nets,113,Philadelphia,106,True
-400278292,2013-12-25,True,Brooklyn Nets,95,Boston,109,False
-400278308,2013-12-26,False,Brooklyn Nets,94,Milwaukee,89,True
-400278329,2013-12-28,True,Brooklyn Nets,85,Charlotte,88,True
-400278343,2013-12-29,True,Brooklyn Nets,83,Cleveland,91,True
-400278357,2013-12-31,False,Brooklyn Nets,77,San Antonio,101,False
-400278366,2013-01-02,False,Brooklyn Nets,106,Oklahoma City,119,False
-400278382,2013-01-04,False,Brooklyn Nets,97,Washington,77,True
-400278395,2013-01-05,True,Brooklyn Nets,105,Sacramento,85,False
-400278407,2013-01-08,False,Brooklyn Nets,93,Philadelphia,89,True
-400278436,2013-01-11,True,Brooklyn Nets,92,Phoenix,83,False
-400278447,2013-01-13,True,Brooklyn Nets,90,Indiana,93,True
-400278455,2013-01-15,True,Brooklyn Nets,74,Toronto,89,False
-400278478,2013-01-16,False,Brooklyn Nets,111,Atlanta,86,False
-400278484,2013-01-18,True,Brooklyn Nets,84,Atlanta,89,True
-400278499,2013-01-21,False,Brooklyn Nets,119,NY Knicks,108,True
-400278511,2013-01-23,False,Brooklyn Nets,113,Minnesota,111,True
-400278523,2013-01-25,False,Brooklyn Nets,94,Memphis,97,True
-400278535,2013-01-26,False,Brooklyn Nets,106,Houston,96,False
-400278551,2013-01-28,True,Brooklyn Nets,76,Orlando,72,False
-400278567,2013-01-30,True,Brooklyn Nets,97,Miami,101,True
-400278590,2013-02-01,True,Brooklyn Nets,98,Chicago,90,False
-400278597,2013-02-05,True,Brooklyn Nets,85,Los Angeles,96,False
-400278619,2013-02-06,False,Brooklyn Nets,78,Detroit,99,True
-400278638,2013-02-08,False,Brooklyn Nets,95,Washington,78,True
-400278647,2013-02-10,True,Brooklyn Nets,80,San Antonio,93,True
-400278663,2013-02-11,False,Brooklyn Nets,97,Indiana,106,False
-400278671,2013-02-13,True,Brooklyn Nets,108,Denver,98,True
-400278711,2013-02-19,True,Brooklyn Nets,105,Milwaukee,93,False
-400278717,2013-02-20,False,Brooklyn Nets,82,Milwaukee,119,True
-400278735,2013-02-22,True,Brooklyn Nets,96,Houston,113,True
-400278758,2013-02-24,True,Brooklyn Nets,95,Memphis,101,False
-400278766,2013-02-26,False,Brooklyn Nets,100,New Orleans,102,True
-400278790,2013-03-01,True,Brooklyn Nets,93,Dallas,111,True
-400277740,2013-03-02,False,Brooklyn Nets,104,Chicago,84,True
-400277757,2013-03-06,False,Brooklyn Nets,100,Charlotte,84,True
-400277762,2013-03-08,True,Brooklyn Nets,88,Washington,110,True
-400277791,2013-03-09,False,Brooklyn Nets,104,Atlanta,94,True
-400277824,2013-03-11,False,Brooklyn Nets,89,Philadelphia,99,True
-400277840,2013-03-12,True,Brooklyn Nets,100,New Orleans,104,True
-400277847,2013-03-17,True,Brooklyn Nets,95,Atlanta,105,False
-400277859,2013-03-18,False,Brooklyn Nets,88,Detroit,76,True
-400277875,2013-03-20,False,Brooklyn Nets,80,Dallas,102,True
-400277887,2013-03-23,False,Brooklyn Nets,111,Los Angeles,114,False
-400277898,2013-03-24,False,Brooklyn Nets,103,Phoenix,131,False
-400277912,2013-03-27,False,Brooklyn Nets,121,Portland,100,True
-400277935,2013-03-30,False,Brooklyn Nets,88,Utah,102,True
-400277946,2013-04-03,False,Brooklyn Nets,108,Cleveland,87,True
-400277963,2013-04-04,True,Brooklyn Nets,106,Chicago,99,True
-400277977,2013-04-06,True,Brooklyn Nets,98,Charlotte,100,True
-400277988,2013-04-09,True,Brooklyn Nets,92,Philadelphia,112,True
-400278008,2013-04-10,False,Brooklyn Nets,85,Boston,93,False
-400278015,2013-04-12,False,Brooklyn Nets,112,Indiana,106,True
-400278043,2013-04-15,True,Brooklyn Nets,116,Washington,107,True
-400278058,2013-04-17,True,Brooklyn Nets,103,Detroit,102,True
-400278071,2013-11-01,False,Brooklyn Nets,109,Brooklyn,96,False
-400278103,2013-11-04,True,Brooklyn Nets,110,Philadelphia,106,False
-400278120,2013-11-05,False,Brooklyn Nets,94,Philadelphia,91,True
-400278126,2013-11-09,True,Brooklyn Nets,94,Dallas,100,False
-400278141,2013-11-13,False,Brooklyn Nets,97,Orlando,99,True
-400278154,2013-11-15,False,Brooklyn Nets,105,San Antonio,106,False
-400278179,2013-11-16,False,Brooklyn Nets,105,Memphis,100,False
-400278196,2013-11-18,True,Brooklyn Nets,100,Indiana,83,True
-400278210,2013-11-20,False,Brooklyn Nets,106,New Orleans,114,True
-400278247,2013-11-23,False,Brooklyn Nets,76,Houston,81,False
-400278254,2013-11-25,True,Brooklyn Nets,108,Detroit,101,False
-400278269,2013-11-26,False,Brooklyn Nets,100,Brooklyn,87,True
-400278300,2013-11-28,False,Brooklyn Nets,87,Milwaukee,102,True
-400278363,2013-12-05,False,New York Knicks,80,Charlotte,97,False
-400278376,2013-12-06,False,New York Knicks,106,Miami,104,True
-400278393,2013-12-08,False,New York Knicks,113,Chicago,97,True
-400278408,2013-12-09,True,New York Knicks,96,Denver,86,True
-400278417,2013-12-11,False,New York Knicks,120,Brooklyn,81,True
-400278430,2013-12-13,True,New York Knicks,99,Los Angeles,85,True
-400278442,2013-12-15,True,New York Knicks,96,Cleveland,106,False
-400278465,2013-12-17,True,New York Knicks,94,Houston,100,True
-400278472,2013-12-19,True,New York Knicks,102,Brooklyn,88,False
-400278500,2013-12-21,True,New York Knicks,92,Chicago,88,False
-400278521,2013-12-23,True,New York Knicks,91,Minnesota,125,False
-400278531,2013-12-25,False,New York Knicks,98,Los Angeles,100,False
-400278555,2013-12-26,False,New York Knicks,99,Phoenix,93,True
-400278573,2013-12-28,False,New York Knicks,109,Sacramento,105,True
-400278585,2013-01-01,True,New York Knicks,88,Portland,96,True
-400278600,2013-01-03,True,New York Knicks,99,San Antonio,93,False
-400278609,2013-01-05,False,New York Knicks,97,Orlando,102,True
-400278624,2013-01-07,True,New York Knicks,77,Boston,87,True
-400278633,2013-01-10,False,New York Knicks,95,Indiana,94,False
-400278648,2013-01-11,True,New York Knicks,113,Chicago,84,True
-400278667,2013-01-13,True,New York Knicks,63,New Orleans,92,False
-400278684,2013-01-17,False,New York Knicks,94,Detroit,117,False
-400278688,2013-01-21,True,New York Knicks,90,Brooklyn,105,False
-400278707,2013-01-24,False,New York Knicks,80,Boston,93,False
-400278723,2013-01-26,False,New York Knicks,83,Philadelphia,90,True
-400278730,2013-01-27,True,New York Knicks,106,Atlanta,94,True
-400278742,2013-01-30,True,New York Knicks,94,Orlando,99,True
-400278754,2013-02-01,True,New York Knicks,110,Milwaukee,84,True
-400278781,2013-02-04,True,New York Knicks,108,Detroit,101,True
-400277725,2013-02-06,False,New York Knicks,84,Washington,75,True
-400277778,2013-02-13,True,New York Knicks,62,Toronto,77,True
-400277801,2013-02-22,False,New York Knicks,83,Toronto,93,True
-400277816,2013-02-24,True,New York Knicks,105,Philadelphia,96,False
-400277829,2013-02-27,True,New York Knicks,94,Golden State,76,False
-400277842,2013-03-01,False,New York Knicks,99,Washington,93,True
-400277861,2013-03-03,True,New York Knicks,86,Miami,79,True
-400277874,2013-03-04,False,New York Knicks,106,Cleveland,98,True
-400277879,2013-03-06,False,New York Knicks,83,Detroit,92,False
-400277903,2013-03-07,True,New York Knicks,116,Oklahoma City,109,False
-400277914,2013-03-09,True,New York Knicks,104,Utah,101,True
-400277924,2013-03-11,False,New York Knicks,100,Golden State,98,True
-400277943,2013-03-13,False,New York Knicks,98,Denver,104,True
-400277955,2013-03-14,False,New York Knicks,88,Portland,93,False
-400277971,2013-03-17,False,New York Knicks,105,Los Angeles,88,False
-400278018,2013-03-22,False,New York Knicks,104,Toronto,97,True
-400278032,2013-03-23,True,New York Knicks,96,Toronto,89,False
-400278047,2013-03-26,False,New York Knicks,85,Boston,95,False
-400278067,2013-03-27,True,New York Knicks,111,Memphis,98,False
-400278082,2013-03-29,True,New York Knicks,100,Charlotte,107,False
-400278092,2013-03-31,True,New York Knicks,103,Boston,125,False
-400278101,2013-04-02,False,New York Knicks,99,Miami,80,True
-400278136,2013-04-05,True,New York Knicks,89,Milwaukee,99,True
-400278156,2013-04-07,False,New York Knicks,89,Oklahoma City,96,False
-400278166,2013-04-09,True,New York Knicks,85,Washington,89,False
-400278183,2013-04-11,False,New York Knicks,99,Chicago,103,True
-400278194,2013-04-12,False,New York Knicks,89,Cleveland,95,False
-400278205,2013-04-14,True,New York Knicks,85,Indiana,109,False
-400278216,2013-04-15,False,New York Knicks,86,Charlotte,109,False
-400278236,2013-10-31,True,New York Knicks,72,Denver,90,False
-400278264,2013-11-04,False,New York Knicks,107,NY Knicks,100,True
-400278284,2013-11-05,True,New York Knicks,111,NY Knicks,99,False
-400278305,2013-11-07,False,New York Knicks,108,New Orleans,101,True
-400278331,2013-11-09,False,New York Knicks,90,Boston,85,False
-400278336,2013-11-10,False,New York Knicks,102,Toronto,110,False
-400278380,2013-11-14,True,New York Knicks,103,Detroit,100,False
-400278390,2013-11-16,True,New York Knicks,92,Utah,84,True
-400278409,2013-11-18,True,New York Knicks,89,Cleveland,80,True
-400278428,2013-11-20,True,New York Knicks,78,Toronto,61,True
-400278441,2013-11-21,False,New York Knicks,88,Cleveland,69,False
-400278468,2013-11-24,True,New York Knicks,87,Oklahoma City,76,True
-400278481,2013-11-25,True,New York Knicks,107,Phoenix,90,False
-400278502,2013-11-27,True,New York Knicks,92,Dallas,94,False
-400278525,2013-11-30,False,New York Knicks,87,Charlotte,94,False
-400278546,2013-12-01,False,New York Knicks,114,Chicago,90,False
-400278563,2013-12-07,True,New York Knicks,98,Boston,84,False
-400278582,2013-12-08,False,New York Knicks,82,Boston,93,False
-400278596,2013-12-10,True,New York Knicks,104,Detroit,97,True
-400278602,2013-12-12,True,New York Knicks,87,Chicago,90,False
-400278622,2013-12-16,True,New York Knicks,96,Los Angeles,107,False
-400278641,2013-12-18,False,New York Knicks,93,Dallas,102,False
-400278657,2013-12-19,False,New York Knicks,91,Houston,99,False
-400278676,2013-12-23,False,Philadelphia 76ers,98,Brooklyn,94,False
-400278701,2013-12-26,False,Philadelphia 76ers,98,Memphis,91,True
-400278713,2013-12-28,False,Philadelphia 76ers,101,Golden State,100,True
-400278738,2013-12-29,False,Philadelphia 76ers,72,Portland,101,False
-400278740,2013-01-01,False,Philadelphia 76ers,100,Los Angeles,101,False
-400278767,2013-01-02,False,Philadelphia 76ers,103,Phoenix,117,True
-400278772,2013-01-04,False,Philadelphia 76ers,91,Oklahoma City,107,False
-400278778,2013-01-05,False,Philadelphia 76ers,100,San Antonio,92,True
-400277724,2013-01-08,True,Philadelphia 76ers,90,Brooklyn,88,False
-400277758,2013-01-12,True,Philadelphia 76ers,105,Houston,86,True
-400277771,2013-01-15,True,Philadelphia 76ers,88,New Orleans,108,False
-400277781,2013-01-18,True,Philadelphia 76ers,104,Toronto,109,False
-400277815,2013-01-22,False,Philadelphia 76ers,140,Milwaukee,133,False
-400277825,2013-01-26,True,Philadelphia 76ers,72,NY Knicks,74,True
-400277860,2013-01-30,True,Philadelphia 76ers,97,Washington,86,True
-400277877,2013-02-04,True,Philadelphia 76ers,97,Orlando,98,False
-400277895,2013-02-06,True,Philadelphia 76ers,90,Indiana,91,False
-400277911,2013-02-09,True,Philadelphia 76ers,111,Charlotte,106,False
-400277926,2013-02-11,True,Philadelphia 76ers,101,Los Angeles,117,False
-400277936,2013-02-13,False,Philadelphia 76ers,82,Milwaukee,103,False
-400277942,2013-02-20,False,Philadelphia 76ers,101,Minnesota,97,True
-400277968,2013-02-23,True,Philadelphia 76ers,110,Miami,113,False
-400277986,2013-02-24,False,Philadelphia 76ers,100,NY Knicks,107,False
-400277999,2013-02-26,True,Philadelphia 76ers,99,Orlando,131,False
-400278012,2013-02-28,False,Philadelphia 76ers,83,Chicago,102,False
-400278023,2013-03-02,True,Philadelphia 76ers,74,Golden State,92,False
-400278045,2013-03-05,True,Philadelphia 76ers,95,Boston,74,True
-400278066,2013-03-06,False,Philadelphia 76ers,103,Atlanta,96,True
-400278077,2013-03-08,False,Philadelphia 76ers,99,Miami,113,True
-400278086,2013-03-10,False,Philadelphia 76ers,97,Orlando,91,True
-400278100,2013-03-11,True,Philadelphia 76ers,93,Brooklyn,90,True
-400278138,2013-03-13,True,Philadelphia 76ers,80,Miami,100,False
-400278150,2013-03-16,True,Philadelphia 76ers,97,Indiana,104,True
-400278159,2013-03-18,True,Philadelphia 76ers,88,Portland,123,True
-400278184,2013-03-20,False,Philadelphia 76ers,102,Los Angeles,79,True
-400278198,2013-03-21,False,Philadelphia 76ers,105,Denver,96,False
-400278219,2013-03-24,False,Philadelphia 76ers,104,Sacramento,92,False
-400278250,2013-03-27,True,Philadelphia 76ers,99,Milwaukee,78,True
-400278270,2013-03-29,False,Philadelphia 76ers,107,Cleveland,96,False
-400278290,2013-04-03,False,Philadelphia 76ers,107,Charlotte,105,False
-400278321,2013-04-06,False,Philadelphia 76ers,108,Miami,103,True
-400278339,2013-04-09,False,Philadelphia 76ers,116,Brooklyn,123,False
-400278349,2013-04-10,True,Philadelphia 76ers,95,Atlanta,97,True
-400278362,2013-04-12,False,Philadelphia 76ers,99,Washington,98,False
-400278379,2013-04-14,True,Philadelphia 76ers,114,Cleveland,102,False
-400278394,2013-04-15,False,Philadelphia 76ers,92,Detroit,93,False
-400278404,2013-04-17,False,Philadelphia 76ers,98,Indiana,73,True
-400278427,2013-10-31,True,Philadelphia 76ers,100,Indiana,85,False
-400278457,2013-11-04,True,Philadelphia 76ers,98,Minnesota,100,True
-400278475,2013-11-06,False,Philadelphia 76ers,102,Oklahoma City,89,True
-400278489,2013-11-07,False,Philadelphia 76ers,109,Dallas,108,True
-400278509,2013-11-12,True,Philadelphia 76ers,88,Utah,96,True
-400278518,2013-11-13,False,Philadelphia 76ers,88,Indiana,82,False
-400278559,2013-11-18,True,Philadelphia 76ers,90,Orlando,84,False
-400278572,2013-11-20,False,Philadelphia 76ers,92,Philadelphia,103,False
-400278584,2013-11-21,False,Philadelphia 76ers,93,Charlotte,81,False
-400278598,2013-11-23,False,Philadelphia 76ers,114,Detroit,122,False
-400278615,2013-11-25,True,Philadelphia 76ers,118,San Antonio,125,False
-400278630,2013-11-27,False,Philadelphia 76ers,71,Houston,98,True
-400278645,2013-11-28,False,Philadelphia 76ers,116,Memphis,118,False
-400278656,2013-11-30,True,Philadelphia 76ers,100,Phoenix,96,True
-400278689,2013-12-05,False,Philadelphia 76ers,92,Sacramento,78,True
-400278705,2013-12-07,False,Philadelphia 76ers,108,Utah,91,False
-400278728,2013-12-09,False,Philadelphia 76ers,101,Los Angeles,107,False
-400278777,2013-12-14,True,Philadelphia 76ers,107,Dallas,88,False
-400277730,2013-12-16,True,Philadelphia 76ers,85,Houston,87,True
-400277746,2013-12-18,False,Philadelphia 76ers,104,Cleveland,94,False
-400277756,2013-12-19,True,Philadelphia 76ers,110,Detroit,114,True
-400277768,2013-12-21,True,Philadelphia 76ers,92,Orlando,94,False
-400277785,2013-12-26,False,Philadelphia 76ers,106,San Antonio,96,True
-400277800,2013-12-28,False,Philadelphia 76ers,77,New Orleans,101,False
-400277809,2013-12-29,False,Philadelphia 76ers,107,Orlando,101,False
-400277838,2013-01-02,True,Philadelphia 76ers,92,Portland,88,True
-400277846,2013-01-04,True,Philadelphia 76ers,98,Sacramento,106,True
-400277863,2013-01-06,True,Philadelphia 76ers,109,Oklahoma City,119,False
-400277871,2013-01-09,True,Philadelphia 76ers,101,Philadelphia,105,True
-400277899,2013-01-13,True,Toronto Raptors,91,Milwaukee,102,False
-400277910,2013-01-15,False,Toronto Raptors,96,Brooklyn,85,True
-400277941,2013-01-16,True,Toronto Raptors,106,Chicago,105,True
-400277962,2013-01-18,False,Toronto Raptors,103,Philadelphia,92,True
-400277970,2013-01-20,True,Toronto Raptors,102,Los Angeles,94,False
-400277981,2013-01-23,False,Toronto Raptors,97,Miami,104,True
-400278003,2013-01-26,True,Toronto Raptors,97,Cleveland,101,True
-400278019,2013-01-28,True,Toronto Raptors,96,Golden State,104,True
-400278034,2013-01-30,False,Toronto Raptors,95,Atlanta,97,True
-400278050,2013-02-01,True,Toronto Raptors,85,Los Angeles,99,False
-400278057,2013-02-03,True,Toronto Raptors,93,Miami,115,True
-400278085,2013-02-06,True,Toronto Raptors,103,Boston,96,True
-400278095,2013-02-08,False,Toronto Raptors,127,Indiana,131,False
-400278109,2013-02-10,True,Toronto Raptors,115,New Orleans,100,True
-400278118,2013-02-12,True,Toronto Raptors,118,Denver,115,False
-400278140,2013-02-13,False,Toronto Raptors,83,NY Knicks,94,True
-400278195,2013-02-22,True,Toronto Raptors,115,NY Knicks,94,True
-400278218,2013-02-25,True,Toronto Raptors,89,Washington,115,False
-400278246,2013-02-27,False,Toronto Raptors,94,Cleveland,87,False
-400278260,2013-03-01,True,Toronto Raptors,103,Indiana,97,True
-400278273,2013-03-02,False,Toronto Raptors,105,Milwaukee,116,False
-400278299,2013-03-04,False,Toronto Raptors,92,Golden State,75,False
-400278310,2013-03-06,False,Toronto Raptors,88,Phoenix,95,False
-400278316,2013-03-08,False,Toronto Raptors,112,Los Angeles,116,True
-400278330,2013-03-10,True,Toronto Raptors,106,Cleveland,99,True
-400278348,2013-03-13,False,Toronto Raptors,104,Boston,99,True
-400278356,2013-03-15,True,Toronto Raptors,87,Charlotte,103,False
-400278367,2013-03-17,True,Toronto Raptors,102,Miami,109,False
-400278386,2013-03-22,True,Toronto Raptors,95,NY Knicks,108,True
-400278403,2013-03-23,False,Toronto Raptors,100,NY Knicks,97,True
-400278424,2013-03-27,True,Toronto Raptors,113,Atlanta,93,True
-400278438,2013-03-29,False,Toronto Raptors,109,Detroit,140,False
-400278449,2013-03-31,False,Toronto Raptors,98,Washington,119,False
-400278462,2013-04-01,True,Toronto Raptors,93,Detroit,99,False
-400278470,2013-04-03,True,Toronto Raptors,91,Washington,116,False
-400278494,2013-04-05,False,Toronto Raptors,116,Minnesota,107,False
-400278515,2013-04-06,False,Toronto Raptors,101,Milwaukee,115,False
-400278528,2013-04-09,False,Toronto Raptors,108,Chicago,98,True
-400278542,2013-04-12,True,Toronto Raptors,107,Chicago,101,True
-400278552,2013-04-14,True,Toronto Raptors,99,Brooklyn,100,True
-400278564,2013-04-16,False,Toronto Raptors,97,Atlanta,108,False
-400278632,2013-11-05,False,Toronto Raptors,87,Sacramento,83,True
-400278646,2013-11-07,True,Toronto Raptors,94,Cleveland,88,False
-400278653,2013-11-09,False,Toronto Raptors,103,Los Angeles,93,False
-400278686,2013-11-14,True,Toronto Raptors,105,Atlanta,97,True
-400278698,2013-11-16,False,Toronto Raptors,113,Minnesota,95,False
-400278708,2013-11-18,False,Toronto Raptors,78,Oklahoma City,108,True
-400278721,2013-11-19,False,Toronto Raptors,72,Dallas,93,True
-400278736,2013-11-21,True,Toronto Raptors,93,Brooklyn,104,False
-400278759,2013-11-23,False,Toronto Raptors,101,Denver,92,True
-400278773,2013-11-24,True,Toronto Raptors,109,Minnesota,103,True
-400278789,2013-11-29,True,Toronto Raptors,105,Denver,98,False
-400277731,2013-12-01,True,Toronto Raptors,101,Indiana,92,True
-400277745,2013-12-03,True,Toronto Raptors,95,Orlando,105,True
-400277769,2013-12-07,False,Toronto Raptors,108,Brooklyn,101,False
-400277784,2013-12-08,False,Toronto Raptors,106,Washington,84,True
-400277787,2013-12-10,False,Toronto Raptors,90,Charlotte,103,True
-400277811,2013-12-12,False,Toronto Raptors,89,Miami,76,True
-400277837,2013-12-14,False,Toronto Raptors,107,Orlando,100,True
-400277852,2013-12-15,False,Toronto Raptors,101,Atlanta,80,True
-400277872,2013-12-18,True,Toronto Raptors,87,New Orleans,92,True
-400277884,2013-12-19,False,Toronto Raptors,111,Sacramento,117,False
-400277905,2013-12-22,True,Toronto Raptors,93,Los Angeles,104,False
-400277923,2013-12-26,False,Toronto Raptors,105,Utah,98,False
-400277939,2013-12-28,True,Toronto Raptors,101,Philadelphia,95,True
-400277961,2013-12-29,True,Toronto Raptors,116,Boston,81,True
-400277969,2013-01-02,True,Toronto Raptors,104,Los Angeles,105,True
-400277987,2013-01-05,False,Toronto Raptors,112,Los Angeles,90,True
-400278002,2013-01-09,True,Toronto Raptors,117,Memphis,99,True
-400278028,2013-01-13,False,Toronto Raptors,89,Denver,94,True
-400278033,2013-01-16,True,Toronto Raptors,94,Miami,100,True
-400278063,2013-01-18,False,Toronto Raptors,85,San Antonio,111,True
-400278072,2013-01-19,False,Toronto Raptors,76,New Orleans,88,True
-400278096,2013-01-21,True,Toronto Raptors,93,Los Angeles,77,True
-400278108,2013-01-23,True,Toronto Raptors,97,Oklahoma City,85,True
-400278123,2013-01-25,False,Toronto Raptors,77,Chicago,103,True
-400278129,2013-01-26,False,Toronto Raptors,112,Milwaukee,100,True
-400278153,2013-01-29,False,Golden State Warriors,114,Cleveland,116,True
-400278171,2013-01-31,True,Golden State Warriors,107,Dallas,96,True
-400278182,2013-02-02,True,Golden State Warriors,78,Phoenix,92,False
-400278208,2013-02-06,False,Golden State Warriors,107,Oklahoma City,102,True
-400278245,2013-02-09,False,Golden State Warriors,99,Dallas,93,True
-400278261,2013-02-12,True,Golden State Warriors,104,Houston,101,False
-400278279,2013-02-19,False,Golden State Warriors,73,Utah,99,True
-400278287,2013-02-20,True,Golden State Warriors,109,Phoenix,117,True
-400278301,2013-02-22,True,Golden State Warriors,77,San Antonio,90,True
-400278320,2013-02-24,False,Golden State Warriors,94,Minnesota,87,True
-400278337,2013-02-27,False,Golden State Warriors,109,NY Knicks,97,False
-400278351,2013-03-01,False,Golden State Warriors,88,Boston,93,False
-400278371,2013-03-02,False,Golden State Warriors,100,Philadelphia,101,False
-400278378,2013-03-04,True,Golden State Warriors,96,Toronto,83,True
-400278397,2013-03-06,True,Golden State Warriors,90,Sacramento,96,True
-400278429,2013-03-11,True,Golden State Warriors,90,NY Knicks,98,False
-400278443,2013-03-13,True,Golden State Warriors,76,Detroit,86,True
-400278461,2013-03-15,True,Golden State Warriors,89,Chicago,111,False
-400278506,2013-03-20,False,Golden State Warriors,106,San Antonio,96,True
-400278508,2013-03-23,True,Golden State Warriors,101,Washington,125,True
-400278530,2013-03-25,True,Golden State Warriors,116,Los Angeles,90,False
-400278549,2013-03-27,True,Golden State Warriors,107,Sacramento,94,True
-400278570,2013-03-30,True,Golden State Warriors,106,Portland,84,True
-400278581,2013-04-03,True,Golden State Warriors,91,New Orleans,99,True
-400278589,2013-04-05,False,Golden State Warriors,89,Phoenix,105,True
-400278601,2013-04-07,True,Golden State Warriors,108,Utah,104,False
-400278631,2013-04-09,True,Golden State Warriors,117,Minnesota,101,True
-400278634,2013-04-11,True,Golden State Warriors,92,Oklahoma City,107,False
-400278662,2013-04-12,False,Golden State Warriors,129,Los Angeles,97,True
-400278685,2013-04-15,True,Golden State Warriors,96,San Antonio,85,False
-400278727,2013-10-31,True,Golden State Warriors,101,Memphis,116,False
-400278776,2013-11-05,True,Golden State Warriors,102,Cleveland,109,False
-400278783,2013-11-07,True,Golden State Warriors,91,San Antonio,105,True
-400277723,2013-11-08,False,Golden State Warriors,99,Portland,91,False
-400277732,2013-11-11,True,Golden State Warriors,106,Atlanta,116,False
-400277761,2013-11-17,True,Golden State Warriors,108,Chicago,79,True
-400277782,2013-11-19,False,Golden State Warriors,86,San Antonio,95,False
-400277814,2013-11-23,False,Golden State Warriors,103,Brooklyn,90,True
-400277828,2013-11-24,False,Golden State Warriors,84,Atlanta,82,False
-400277850,2013-11-26,True,Golden State Warriors,114,New Orleans,102,True
-400277866,2013-11-28,True,Golden State Warriors,119,Minnesota,108,True
-400277889,2013-12-03,False,Golden State Warriors,97,Utah,113,False
-400277897,2013-12-05,True,Golden State Warriors,98,Dallas,106,False
-400277907,2013-12-08,True,Golden State Warriors,89,Phoenix,115,True
-400277928,2013-12-09,True,Golden State Warriors,79,Toronto,77,False
-400277952,2013-12-11,False,Golden State Warriors,122,Chicago,103,True
-400277964,2013-12-12,False,Golden State Warriors,113,Charlotte,103,False
-400277976,2013-12-15,False,Golden State Warriors,105,Milwaukee,107,False
-400277983,2013-12-17,False,Golden State Warriors,87,Detroit,103,True
-400278000,2013-12-19,True,Golden State Warriors,108,New Orleans,114,False
-400278017,2013-12-21,True,Golden State Warriors,117,Sacramento,110,False
-400278025,2013-12-23,False,Golden State Warriors,94,Phoenix,100,False
-400278046,2013-12-27,True,Golden State Warriors,96,Boston,102,True
-400278084,2013-12-30,True,Golden State Warriors,101,Utah,100,True
-400278139,2013-01-04,True,Golden State Warriors,114,Los Angeles,126,False
-400278155,2013-01-05,True,Golden State Warriors,104,Golden State,87,True
-400278223,2013-01-14,False,Golden State Warriors,112,Memphis,105,False
-400278234,2013-01-15,False,Golden State Warriors,112,Houston,125,False
-400278242,2013-01-17,False,Golden State Warriors,105,Minnesota,108,False
-400278259,2013-01-19,True,Golden State Warriors,116,Washington,101,False
-400278275,2013-01-21,False,Golden State Warriors,113,Golden State,93,True
-400278289,2013-01-22,True,Golden State Warriors,104,Oklahoma City,88,True
-400278303,2013-01-24,False,Golden State Warriors,99,Phoenix,90,False
-400278332,2013-01-27,True,Golden State Warriors,83,Portland,95,False
-400278341,2013-01-30,False,Golden State Warriors,93,Minnesota,106,False
-400278361,2013-02-01,False,Golden State Warriors,102,Toronto,84,True
-400278373,2013-02-03,False,Golden State Warriors,105,Boston,96,True
-400278389,2013-02-04,False,Golden State Warriors,111,Washington,106,True
-400278401,2013-02-06,False,Golden State Warriors,86,Orlando,92,False
-400278415,2013-02-08,False,Golden State Warriors,100,Miami,111,True
-400278426,2013-02-10,False,Los Angeles Clippers,97,NY Knicks,98,True
-400278456,2013-02-14,False,Los Angeles Clippers,93,Los Angeles,100,True
-400278473,2013-02-21,True,Los Angeles Clippers,97,San Antonio,107,False
-400278493,2013-02-23,True,Los Angeles Clippers,91,Utah,85,True
-400278541,2013-03-01,False,Los Angeles Clippers,111,Cleveland,107,True
-400278550,2013-03-03,True,Los Angeles Clippers,99,Oklahoma City,103,True
-400278561,2013-03-06,True,Los Angeles Clippers,108,Milwaukee,119,False
-400278583,2013-03-07,False,Los Angeles Clippers,116,Denver,94,True
-400278608,2013-03-10,True,Los Angeles Clippers,99,Detroit,98,True
-400278617,2013-03-13,True,Los Angeles Clippers,105,Memphis,122,False
-400278626,2013-03-17,True,Los Angeles Clippers,102,NY Knicks,108,True
-400278655,2013-03-20,True,Los Angeles Clippers,90,Philadelphia,81,True
-400278669,2013-03-23,True,Los Angeles Clippers,97,Brooklyn,106,True
-400278680,2013-03-26,False,Los Angeles Clippers,92,Dallas,96,False
-400278691,2013-03-27,False,Los Angeles Clippers,93,New Orleans,99,True
-400278712,2013-03-29,False,Los Angeles Clippers,113,San Antonio,102,True
-400278722,2013-03-30,False,Los Angeles Clippers,76,Houston,99,False
-400278752,2013-04-01,True,Los Angeles Clippers,103,Indiana,100,False
-400278786,2013-04-07,True,Los Angeles Clippers,117,Los Angeles,120,True
-400278791,2013-04-10,True,Los Angeles Clippers,103,Minnesota,113,False
-400277744,2013-04-13,False,Los Angeles Clippers,92,Memphis,89,True
-400277759,2013-04-16,True,Los Angeles Clippers,94,Portland,115,False
-400277764,2013-04-17,False,Los Angeles Clippers,99,Sacramento,124,False
-400277773,2013-10-30,True,Los Angeles Clippers,110,Dallas,117,True
-400277797,2013-10-31,False,Los Angeles Clippers,107,Portland,105,True
-400277807,2013-11-02,True,Los Angeles Clippers,81,Los Angeles,94,False
-400277821,2013-11-04,True,Los Angeles Clippers,110,Detroit,100,True
-400277836,2013-11-07,False,Los Angeles Clippers,112,Utah,106,False
-400277858,2013-11-11,True,Los Angeles Clippers,97,Sacramento,88,False
-400277888,2013-11-13,True,Los Angeles Clippers,114,San Antonio,87,True
-400277901,2013-11-16,True,Los Angeles Clippers,111,Phoenix,108,True
-400277925,2013-11-20,True,Los Angeles Clippers,78,Brooklyn,91,True
-400277933,2013-11-21,False,Los Angeles Clippers,77,Sacramento,117,False
-400277975,2013-11-27,True,Los Angeles Clippers,98,Indiana,108,False
-400277989,2013-11-30,True,Los Angeles Clippers,97,Denver,94,False
-400278016,2013-12-04,False,Los Angeles Clippers,98,Houston,90,False
-400278040,2013-12-05,False,Los Angeles Clippers,82,New Orleans,80,True
-400278054,2013-12-07,False,Los Angeles Clippers,99,Oklahoma City,84,True
-400278075,2013-12-09,True,Los Angeles Clippers,101,Utah,90,True
-400278093,2013-12-11,False,Los Angeles Clippers,121,Cleveland,104,True
-400278117,2013-12-13,False,Los Angeles Clippers,93,NY Knicks,96,False
-400278146,2013-12-18,True,Los Angeles Clippers,91,Charlotte,97,False
-400278164,2013-12-22,False,Los Angeles Clippers,107,Golden State,111,False
-400278176,2013-12-25,True,Los Angeles Clippers,96,NY Knicks,114,False
-400278207,2013-12-28,True,Los Angeles Clippers,87,Portland,80,False
-400278222,2013-01-01,True,Los Angeles Clippers,92,Philadelphia,81,False
-400278233,2013-01-04,False,Los Angeles Clippers,99,Los Angeles,108,False
-400278266,2013-01-09,False,Los Angeles Clippers,81,San Antonio,97,True
-400278282,2013-01-11,True,Los Angeles Clippers,102,Oklahoma City,90,False
-400278302,2013-01-13,True,Los Angeles Clippers,98,Cleveland,94,False
-400278346,2013-01-15,True,Los Angeles Clippers,96,Milwaukee,106,True
-400278368,2013-01-20,False,Los Angeles Clippers,99,Toronto,108,False
-400278377,2013-01-21,False,Los Angeles Clippers,95,Chicago,110,False
-400278414,2013-01-25,True,Los Angeles Clippers,109,Utah,99,False
-400278437,2013-01-29,True,Los Angeles Clippers,90,New Orleans,96,True
-400278448,2013-01-30,False,Los Angeles Clippers,84,Phoenix,93,False
-400278464,2013-02-01,False,Los Angeles Clippers,96,Minnesota,127,False
-400278479,2013-02-03,False,Los Angeles Clippers,97,Detroit,69,False
-400278517,2013-02-07,False,Los Angeles Clippers,98,Boston,102,True
-400278556,2013-02-12,True,Los Angeles Clippers,97,Phoenix,87,False
-400278569,2013-02-14,True,Los Angeles Clippers,84,Los Angeles,83,True
-400278578,2013-02-20,True,Los Angeles Clippers,101,Boston,105,True
-400278594,2013-02-22,True,Los Angeles Clippers,92,Portland,87,True
-400278644,2013-02-25,False,Los Angeles Clippers,112,Denver,121,False
-400278652,2013-02-28,True,Los Angeles Clippers,107,Minnesota,105,True
-400278666,2013-03-03,True,Los Angeles Clippers,108,Atlanta,93,False
-400278681,2013-03-05,False,Los Angeles Clippers,81,Oklahoma City,111,False
-400278692,2013-03-06,False,Los Angeles Lakers,94,New Orleans,107,False
-400278699,2013-03-08,True,Los Angeles Lakers,105,Toronto,127,False
-400278737,2013-03-12,False,Los Angeles Lakers,88,Orlando,79,False
-400278751,2013-03-13,False,Los Angeles Lakers,117,Atlanta,86,False
-400278788,2013-03-17,True,Los Angeles Lakers,88,Sacramento,103,False
-400278793,2013-03-18,False,Los Angeles Lakers,117,Phoenix,103,False
-400277727,2013-03-22,True,Los Angeles Lakers,87,Washington,93,False
-400277743,2013-03-25,False,Los Angeles Lakers,80,Golden State,92,False
-400277748,2013-03-27,False,Los Angeles Lakers,98,Minnesota,106,False
-400277783,2013-03-30,False,Los Angeles Lakers,105,Sacramento,103,True
-400277798,2013-04-02,True,Los Angeles Lakers,97,Dallas,86,False
-400277827,2013-04-07,False,Los Angeles Lakers,103,Los Angeles,86,False
-400277848,2013-04-09,True,Los Angeles Lakers,112,New Orleans,96,False
-400277900,2013-04-14,True,Los Angeles Lakers,102,San Antonio,104,False
-400277909,2013-04-17,True,Los Angeles Lakers,108,Houston,97,True
-400277927,2013-10-31,True,Los Angeles Lakers,97,Golden State,89,False
-400277951,2013-11-02,True,Los Angeles Lakers,97,Detroit,92,False
-400278001,2013-11-07,False,Los Angeles Lakers,91,Charlotte,82,True
-400278011,2013-11-09,True,Los Angeles Lakers,80,Cleveland,99,True
-400278022,2013-11-10,False,Los Angeles Lakers,96,Utah,119,False
-400278036,2013-11-12,True,Los Angeles Lakers,85,Denver,98,False
-400278053,2013-11-14,True,Los Angeles Lakers,103,Chicago,113,False
-400278068,2013-11-16,False,Los Angeles Lakers,122,Los Angeles,97,False
-400278124,2013-11-25,False,Los Angeles Lakers,108,Philadelphia,96,True
-400278142,2013-11-27,False,Los Angeles Lakers,91,Cleveland,109,False
-400278180,2013-12-02,False,Los Angeles Lakers,97,NY Knicks,103,False
-400278186,2013-12-04,False,Los Angeles Lakers,94,Memphis,97,True
-400278229,2013-12-09,True,Los Angeles Lakers,113,Orlando,81,False
-400278248,2013-12-12,True,Los Angeles Lakers,117,Memphis,112,False
-400278268,2013-12-14,True,Los Angeles Lakers,128,Utah,99,False
-400278283,2013-12-17,True,Los Angeles Lakers,124,Sacramento,118,True
-400278297,2013-12-19,True,Los Angeles Lakers,95,Charlotte,94,True
-400278309,2013-12-22,False,Los Angeles Lakers,69,Portland,85,False
-400278313,2013-12-23,True,Los Angeles Lakers,93,Los Angeles,97,True
-400278326,2013-12-26,True,Los Angeles Lakers,105,NY Knicks,114,False
-400278360,2013-12-29,False,Los Angeles Lakers,105,Minnesota,95,False
-400278369,2013-12-31,False,Los Angeles Lakers,93,Oklahoma City,121,False
-400278381,2013-01-02,True,Los Angeles Lakers,94,Philadelphia,96,True
-400278434,2013-01-09,False,Los Angeles Lakers,91,Boston,98,False
-400278471,2013-01-11,False,Los Angeles Lakers,120,Brooklyn,109,True
-400278480,2013-01-12,False,Los Angeles Lakers,117,Chicago,111,True
-400278491,2013-01-14,True,Los Angeles Lakers,101,Oklahoma City,108,False
-400278505,2013-01-17,True,Los Angeles Lakers,100,Milwaukee,123,False
-400278516,2013-01-23,False,Los Angeles Lakers,108,Sacramento,102,False
-400278536,2013-01-24,True,Los Angeles Lakers,108,Los Angeles,122,False
-400278554,2013-01-26,False,Los Angeles Lakers,95,San Antonio,110,False
-400278565,2013-01-27,False,Los Angeles Lakers,129,Dallas,141,False
-400278571,2013-01-30,True,Los Angeles Lakers,101,Los Angeles,125,True
-400278592,2013-02-01,True,Los Angeles Lakers,102,Dallas,130,False
-400278604,2013-02-02,False,Los Angeles Lakers,119,Golden State,83,True
-400278618,2013-02-05,False,Los Angeles Lakers,120,Memphis,113,False
-400278661,2013-02-10,True,Los Angeles Lakers,115,Oklahoma City,113,False
-400278683,2013-02-12,False,Los Angeles Lakers,121,Los Angeles,79,True
-400278741,2013-02-22,True,Los Angeles Lakers,101,Boston,98,True
-400278757,2013-02-24,True,Los Angeles Lakers,95,San Antonio,101,False
-400277739,2013-03-08,False,Los Angeles Lakers,86,Sacramento,115,True
-400277751,2013-03-09,True,Los Angeles Lakers,89,Houston,82,False
-400277770,2013-03-11,True,Los Angeles Lakers,99,Denver,93,True
-400277786,2013-03-13,False,Los Angeles Lakers,97,Houston,91,False
-400277804,2013-03-15,False,Los Angeles Lakers,87,Atlanta,80,True
-400277865,2013-03-22,True,Phoenix Suns,94,Minnesota,102,False
-400277885,2013-03-24,True,Phoenix Suns,89,Brooklyn,93,False
-400277908,2013-03-27,False,Phoenix Suns,86,Utah,93,True
-400277919,2013-03-28,True,Phoenix Suns,93,Sacramento,92,False
-400277934,2013-03-30,True,Phoenix Suns,101,Indiana,78,True
-400277974,2013-04-05,True,Phoenix Suns,80,Golden State,76,False
-400277982,2013-04-07,True,Phoenix Suns,85,New Orleans,95,True
-400277994,2013-04-09,False,Phoenix Suns,104,Houston,108,True
-400278073,2013-10-31,False,Phoenix Suns,71,Chicago,80,False
-400278111,2013-11-05,True,Phoenix Suns,75,Golden State,92,False
-400278128,2013-11-07,True,Phoenix Suns,120,Detroit,97,False
-400278161,2013-11-09,True,Phoenix Suns,87,San Antonio,77,True
-400278173,2013-11-11,False,Phoenix Suns,91,Los Angeles,81,False
-400278185,2013-11-13,True,Phoenix Suns,94,Portland,96,True
-400278201,2013-11-16,True,Phoenix Suns,89,Atlanta,96,True
-400278226,2013-11-18,True,Phoenix Suns,118,Brooklyn,92,True
-400278240,2013-11-21,True,Phoenix Suns,104,Los Angeles,96,False
-400278278,2013-11-27,True,Phoenix Suns,97,Minnesota,58,True
-400278315,2013-12-05,True,Phoenix Suns,85,Toronto,82,False
-400278340,2013-12-08,False,Phoenix Suns,85,Portland,82,True
-400278364,2013-12-12,False,Phoenix Suns,73,Milwaukee,86,False
-400278383,2013-12-14,False,Phoenix Suns,93,Oklahoma City,85,True
-400278396,2013-12-16,True,Phoenix Suns,88,Denver,104,True
-400278416,2013-12-19,True,Phoenix Suns,76,Golden State,93,True
-400440940,2013-12-21,False,Phoenix Suns,101,Los Angeles,111,False
-400278454,2013-12-23,True,Phoenix Suns,96,Portland,128,False
-400278466,2013-12-26,False,Phoenix Suns,89,Portland,93,True
-400278486,2013-12-28,True,Phoenix Suns,103,NY Knicks,89,False
-400278513,2013-01-01,False,Phoenix Suns,87,Detroit,96,True
-400278529,2013-01-02,False,Phoenix Suns,86,Cleveland,67,False
-400278533,2013-01-04,False,Phoenix Suns,75,Toronto,105,True
-400278558,2013-01-05,False,Phoenix Suns,72,Brooklyn,102,False
-400278566,2013-01-07,True,Phoenix Suns,101,Memphis,98,False
-400278607,2013-01-14,True,Phoenix Suns,92,Cleveland,97,False
-400278629,2013-01-16,True,Phoenix Suns,83,Washington,101,False
-400278642,2013-01-18,False,Phoenix Suns,89,Memphis,88,True
-400278719,2013-01-25,True,Phoenix Suns,119,Oklahoma City,118,False
-400278739,2013-01-26,False,Phoenix Suns,99,Denver,89,False
-400278755,2013-01-28,False,Phoenix Suns,87,Washington,84,True
-400278764,2013-01-30,False,Phoenix Suns,97,Boston,104,True
-400278782,2013-02-01,False,Phoenix Suns,101,Philadelphia,97,True
-400277721,2013-02-02,False,Phoenix Suns,94,NY Knicks,84,True
-400277753,2013-02-09,True,Phoenix Suns,102,Utah,105,False
-400277813,2013-02-19,True,Phoenix Suns,91,San Antonio,106,False
-400277855,2013-02-24,False,Phoenix Suns,103,New Orleans,95,False
-400277892,2013-03-01,False,Phoenix Suns,104,San Antonio,108,False
-400277906,2013-03-03,True,Phoenix Suns,108,Charlotte,110,False
-400277920,2013-03-05,True,Phoenix Suns,78,Denver,84,False
-400277947,2013-03-08,True,Phoenix Suns,111,Phoenix,113,True
-400277954,2013-03-10,True,Phoenix Suns,118,Milwaukee,117,False
-400277966,2013-03-13,True,Phoenix Suns,79,Chicago,89,False
-400277996,2013-03-19,True,Phoenix Suns,73,Los Angeles,91,False
-400278007,2013-03-21,True,Phoenix Suns,104,Minnesota,97,False
-400278031,2013-03-24,True,Phoenix Suns,81,Philadelphia,96,False
-400278049,2013-03-27,False,Phoenix Suns,90,Golden State,86,False
-400278105,2013-04-05,True,Phoenix Suns,99,Dallas,89,False
-400278115,2013-04-07,True,Phoenix Suns,82,Memphis,94,True
-400278130,2013-04-10,True,Sacramento Kings,84,New Orleans,87,True
-400278149,2013-04-12,False,Sacramento Kings,102,San Antonio,94,False
-400278200,2013-04-17,True,Sacramento Kings,104,Los Angeles,106,True
-400278213,2013-10-31,True,Sacramento Kings,112,Sacramento,104,False
-400278238,2013-11-03,True,Sacramento Kings,99,New Orleans,83,True
-400278258,2013-11-06,True,Sacramento Kings,91,Orlando,98,False
-400278298,2013-11-12,True,Sacramento Kings,88,Boston,93,True
-400278318,2013-11-14,False,Sacramento Kings,98,Phoenix,109,False
-400278355,2013-11-18,False,Sacramento Kings,113,Portland,108,True
-400278410,2013-11-26,True,Sacramento Kings,99,Milwaukee,117,False
-400278418,2013-11-28,True,Sacramento Kings,115,Dallas,110,True
-400278444,2013-12-01,True,Sacramento Kings,122,Philadelphia,95,True
-400278460,2013-12-04,True,Sacramento Kings,119,Indiana,108,True
-400278467,2013-12-05,False,Sacramento Kings,111,Cleveland,103,False
-400278483,2013-12-07,False,Sacramento Kings,100,Detroit,92,False
-400278496,2013-12-08,True,Sacramento Kings,96,NY Knicks,95,False
-400278520,2013-12-11,True,Sacramento Kings,105,Los Angeles,100,True
-400278545,2013-12-12,False,Sacramento Kings,94,Philadelphia,118,True
-400278553,2013-12-15,True,Sacramento Kings,105,Brooklyn,109,False
-400278620,2013-12-25,True,Sacramento Kings,104,Houston,101,True
-400278640,2013-12-26,False,Sacramento Kings,103,Indiana,92,False
-400278670,2013-12-31,True,Sacramento Kings,95,Charlotte,90,True
-400278696,2013-01-02,False,Sacramento Kings,86,Orlando,96,False
-400278702,2013-01-04,False,Sacramento Kings,113,Miami,119,False
-400278715,2013-01-07,True,Sacramento Kings,111,Cleveland,90,False
-400278729,2013-01-09,True,Sacramento Kings,98,Milwaukee,95,False
-400278748,2013-01-11,False,Sacramento Kings,78,NY Knicks,116,False
-400277726,2013-01-14,True,Sacramento Kings,105,Atlanta,96,False
-400277772,2013-01-19,True,Sacramento Kings,97,Memphis,109,False
-400277795,2013-01-23,True,Sacramento Kings,94,Detroit,105,False
-400277805,2013-01-25,True,Sacramento Kings,82,Golden State,96,False
-400277817,2013-01-26,False,Sacramento Kings,92,Washington,90,False
-400277843,2013-01-30,False,Sacramento Kings,110,Milwaukee,106,False
-400277878,2013-02-02,False,Sacramento Kings,74,Atlanta,90,False
-400277918,2013-02-08,False,Sacramento Kings,108,Utah,101,True
-400277948,2013-02-13,False,Sacramento Kings,78,Boston,90,False
-400277960,2013-02-19,False,Sacramento Kings,77,New Orleans,92,False
-400278026,2013-03-02,True,Sacramento Kings,101,Brooklyn,94,False
-400278060,2013-03-06,False,Sacramento Kings,88,San Antonio,77,False
-400278104,2013-03-13,False,Sacramento Kings,100,Sacramento,68,True
-400278110,2013-03-15,False,Sacramento Kings,87,Golden State,96,True
-400278134,2013-03-18,True,Sacramento Kings,119,Denver,126,False
-400278148,2013-03-21,True,Sacramento Kings,109,Portland,99,True
-400278168,2013-03-23,True,Sacramento Kings,96,Indiana,94,True
-400278202,2013-03-27,True,Sacramento Kings,85,Miami,84,True
-400278221,2013-03-30,False,Sacramento Kings,108,Dallas,101,False
-400278257,2013-03-31,True,Sacramento Kings,87,Detroit,103,True
-400278265,2013-04-02,False,Sacramento Kings,90,Washington,87,False
-400278335,2013-04-07,False,Sacramento Kings,105,Detroit,90,True
-400278354,2013-04-11,True,Sacramento Kings,88,NY Knicks,110,False
-400278374,2013-04-12,False,Sacramento Kings,102,Toronto,104,True
-400278387,2013-04-14,False,Sacramento Kings,117,Miami,90,False
-400278391,2013-04-15,False,Sacramento Kings,79,Orlando,98,False
-400278459,2013-11-05,False,Chicago Bulls,119,Los Angeles,109,True
-400278469,2013-11-07,False,Chicago Bulls,100,Golden State,105,True
-400278485,2013-11-09,False,Chicago Bulls,105,Phoenix,86,False
-400278501,2013-11-11,False,Chicago Bulls,96,Oklahoma City,85,True
-400278512,2013-11-13,False,Chicago Bulls,105,Brooklyn,91,False
-400278519,2013-11-17,True,Chicago Bulls,99,Dallas,105,True
-400278534,2013-11-18,False,Chicago Bulls,82,Philadelphia,114,False
-400278547,2013-11-21,True,Chicago Bulls,90,Philadelphia,72,False
-400278560,2013-11-23,False,Chicago Bulls,114,Orlando,103,False
-400278574,2013-11-24,False,Chicago Bulls,95,Miami,96,True
-400278591,2013-11-26,False,Chicago Bulls,95,Memphis,100,False
-400278606,2013-11-27,True,Chicago Bulls,75,Phoenix,114,False
-400278639,2013-12-01,True,Chicago Bulls,102,Portland,99,False
-400278665,2013-12-05,True,Chicago Bulls,90,Chicago,103,False
-400278704,2013-12-08,True,Chicago Bulls,101,Detroit,112,False
-400278746,2013-12-12,False,Chicago Bulls,89,Indiana,103,False
-400278753,2013-12-14,True,Chicago Bulls,91,Milwaukee,92,True
-400278775,2013-12-15,False,Chicago Bulls,105,NY Knicks,82,False
-400277735,2013-12-19,False,Chicago Bulls,89,Boston,90,False
-400277767,2013-12-22,False,Chicago Bulls,79,Milwaukee,101,False
-400277775,2013-12-26,False,Chicago Bulls,86,Washington,89,False
-400277796,2013-12-28,True,Chicago Bulls,94,Atlanta,96,False
-400277802,2013-12-29,False,Chicago Bulls,89,Brooklyn,85,True
-400277831,2013-01-04,False,Chicago Bulls,85,Charlotte,99,False
-400277844,2013-01-05,True,Chicago Bulls,103,Houston,83,True
-400277867,2013-01-09,True,Chicago Bulls,89,Atlanta,96,True
-400277880,2013-01-11,False,Chicago Bulls,115,Denver,107,True
-400277896,2013-01-13,False,Chicago Bulls,104,Los Angeles,97,False
-400277978,2013-01-25,True,Chicago Bulls,99,Milwaukee,92,True
-400277991,2013-01-26,False,Chicago Bulls,92,Toronto,89,False
-400278014,2013-01-29,True,Chicago Bulls,93,Golden State,104,False
-400278081,2013-02-08,True,Chicago Bulls,93,Orlando,98,False
-400278089,2013-02-09,True,Chicago Bulls,104,Denver,84,True
-400278113,2013-02-13,True,Chicago Bulls,75,San Antonio,81,True
-400278158,2013-02-23,False,Chicago Bulls,100,Orlando,109,False
-400278172,2013-02-24,False,Chicago Bulls,88,Miami,83,True
-400278187,2013-02-26,False,Chicago Bulls,89,Chicago,81,True
-400278211,2013-03-01,True,Chicago Bulls,95,Los Angeles,80,True
-400278232,2013-03-04,True,Chicago Bulls,87,NY Knicks,77,True
-400278263,2013-03-08,True,Chicago Bulls,96,Memphis,88,True
-400278285,2013-03-12,True,Chicago Bulls,76,Washington,103,True
-400278291,2013-03-15,False,Chicago Bulls,86,Dallas,97,False
-400278307,2013-03-16,False,Chicago Bulls,105,San Antonio,95,True
-400278325,2013-03-18,True,Chicago Bulls,81,Indiana,82,True
-400278347,2013-03-20,True,Chicago Bulls,80,Miami,100,False
-400278370,2013-03-22,False,Chicago Bulls,110,Houston,114,False
-400278384,2013-03-27,True,Chicago Bulls,101,Boston,102,False
-400278405,2013-03-31,False,Chicago Bulls,102,New Orleans,89,True
-400278435,2013-04-03,True,Chicago Bulls,114,Brooklyn,103,True
-400278497,2013-04-10,True,Chicago Bulls,101,Detroit,77,True
-400278636,2013-11-07,False,Chicago Bulls,86,Sacramento,115,True
-400278658,2013-11-09,False,Chicago Bulls,91,Oklahoma City,105,False
-400278678,2013-11-10,False,Chicago Bulls,107,Houston,91,True
-400278724,2013-11-18,True,Chicago Bulls,95,Boston,73,True
-400278744,2013-11-21,False,Chicago Bulls,102,Orlando,78,True
-400278770,2013-11-25,False,Cleveland Cavaliers,100,NY Knicks,94,True
-400278784,2013-11-26,True,Cleveland Cavaliers,91,Portland,100,True
-400278792,2013-11-28,True,Cleveland Cavaliers,78,Phoenix,103,True
-400277777,2013-12-03,True,Cleveland Cavaliers,108,Cleveland,90,False
-400277788,2013-12-05,True,Cleveland Cavaliers,91,Golden State,101,True
-400277856,2013-12-11,True,Cleveland Cavaliers,117,Denver,113,True
-400277868,2013-12-14,False,Cleveland Cavaliers,98,Brooklyn,102,False
-400277883,2013-12-15,True,Cleveland Cavaliers,106,Indiana,113,False
-400277950,2013-12-22,False,Cleveland Cavaliers,85,Washington,95,False
-400277967,2013-12-28,True,Cleveland Cavaliers,81,Miami,102,False
-400277984,2013-12-30,True,Cleveland Cavaliers,99,Milwaukee,110,False
-400277997,2013-01-01,True,Cleveland Cavaliers,108,Sacramento,93,True
-400278094,2013-01-20,True,Cleveland Cavaliers,80,Boston,90,False
-400278165,2013-01-27,False,Cleveland Cavaliers,104,Orlando,85,True
-400278190,2013-01-30,False,Cleveland Cavaliers,117,Indiana,110,False
-400278206,2013-02-01,True,Cleveland Cavaliers,115,Cleveland,101,False
-400278319,2013-02-19,True,Cleveland Cavaliers,104,Memphis,110,True
-400278421,2013-03-03,False,Cleveland Cavaliers,107,San Antonio,98,True
-400278439,2013-03-06,True,Cleveland Cavaliers,104,NY Knicks,112,False
-400278452,2013-03-08,True,Cleveland Cavaliers,86,Dallas,100,False
-400278487,2013-03-11,False,Cleveland Cavaliers,102,Utah,90,False
-400278548,2013-03-22,False,Cleveland Cavaliers,103,Miami,102,False
-400278568,2013-03-23,False,Cleveland Cavaliers,90,Charlotte,95,True
-400278576,2013-03-26,True,Cleveland Cavaliers,107,Minnesota,110,True
-400278610,2013-03-31,False,Cleveland Cavaliers,109,Chicago,108,True
-400278673,2013-04-07,True,Cleveland Cavaliers,115,Chicago,108,False
-400278677,2013-04-10,False,Cleveland Cavaliers,93,Cleveland,106,False
-400278695,2013-04-12,True,Cleveland Cavaliers,107,Charlotte,94,False
-400278706,2013-04-15,True,Cleveland Cavaliers,115,Philadelphia,109,True
-400278725,2013-04-17,False,Cleveland Cavaliers,102,Brooklyn,95,True
-400278731,2013-10-31,False,Cleveland Cavaliers,90,Toronto,98,False
-400278760,2013-11-03,True,Cleveland Cavaliers,104,Sacramento,99,False
-400277729,2013-11-10,True,Cleveland Cavaliers,94,Washington,113,False
-400277754,2013-11-13,True,Cleveland Cavaliers,126,Toronto,99,True
-400277766,2013-11-14,False,Cleveland Cavaliers,114,Milwaukee,91,True
-400277803,2013-11-19,False,Cleveland Cavaliers,97,Washington,101,False
-400277820,2013-11-21,True,Cleveland Cavaliers,90,New Orleans,82,False
-400277835,2013-11-23,True,Cleveland Cavaliers,107,San Antonio,101,True
-400278010,2013-12-18,False,Detroit Pistons,109,Milwaukee,116,True
-400278062,2013-12-26,True,Detroit Pistons,106,Chicago,114,False
-400278098,2013-12-29,False,Detroit Pistons,110,Atlanta,95,False
-400278106,2013-12-31,True,Detroit Pistons,82,Memphis,92,False
-400278122,2013-01-02,True,Detroit Pistons,91,Washington,129,False
-400278143,2013-01-04,False,Detroit Pistons,105,Boston,111,False
-400278151,2013-01-05,True,Detroit Pistons,106,Milwaukee,85,False
-400278169,2013-01-08,True,Detroit Pistons,111,Miami,86,False
-400278178,2013-01-10,True,Detroit Pistons,94,NY Knicks,103,True
-400278189,2013-01-12,True,Detroit Pistons,109,Charlotte,119,False
-400278215,2013-01-13,False,Detroit Pistons,99,Brooklyn,96,False
-400278228,2013-01-15,False,Detroit Pistons,94,Charlotte,100,False
-400278267,2013-01-21,False,Detroit Pistons,104,Memphis,83,True
-400278280,2013-01-23,False,Detroit Pistons,113,Portland,98,True
-400278295,2013-01-26,False,Detroit Pistons,105,Utah,100,True
-400278312,2013-01-28,False,Detroit Pistons,117,Denver,114,False
-400278322,2013-01-30,True,Detroit Pistons,105,Detroit,111,True
-400278359,2013-02-01,True,Detroit Pistons,113,Miami,107,False
-400278388,2013-02-05,True,Detroit Pistons,104,Atlanta,106,False
-400278432,2013-02-11,True,Detroit Pistons,91,Brooklyn,112,False
-400278450,2013-02-13,True,Detroit Pistons,105,Charlotte,99,True
-400278488,2013-02-22,True,Detroit Pistons,105,Detroit,101,False
-400278526,2013-02-26,True,Detroit Pistons,111,Golden State,96,True
-400278538,2013-02-28,True,Detroit Pistons,100,Los Angeles,104,True
-400278575,2013-03-06,True,Detroit Pistons,84,Boston,90,False
-400278605,2013-03-10,False,Detroit Pistons,103,Miami,136,False
-400278628,2013-03-13,True,Detroit Pistons,112,Minnesota,108,True
-400278660,2013-03-16,False,Detroit Pistons,77,Philadelphia,100,True
-400278687,2013-03-19,True,Detroit Pistons,91,Orlando,92,False
-400278710,2013-03-23,False,Detroit Pistons,107,Chicago,101,False
-400278716,2013-03-25,True,Detroit Pistons,113,Atlanta,127,True
-400278765,2013-03-30,False,Detroit Pistons,113,Phoenix,108,True
-400277738,2013-04-09,True,Detroit Pistons,102,Cleveland,109,True
-400277752,2013-04-12,True,Detroit Pistons,95,Brooklyn,85,False
-400277779,2013-04-14,False,Detroit Pistons,93,NY Knicks,87,False
-400277793,2013-04-16,False,Detroit Pistons,85,Boston,93,False
-400277819,2013-11-02,False,Detroit Pistons,113,Boston,110,False
-400277832,2013-11-03,True,Detroit Pistons,100,Cleveland,96,True
-400277849,2013-11-07,True,Detroit Pistons,117,Memphis,119,False
-400277873,2013-11-10,True,Detroit Pistons,91,Boston,102,False
-400277938,2013-11-19,False,Detroit Pistons,98,Charlotte,120,False
-400277957,2013-11-21,False,Detroit Pistons,124,Miami,116,True
-400277998,2013-11-26,False,Detroit Pistons,92,Chicago,114,False
-400278021,2013-11-30,False,Detroit Pistons,134,Minnesota,126,False
-400278037,2013-12-01,True,Detroit Pistons,99,Boston,93,True
-400278114,2013-12-12,True,Detroit Pistons,121,Sacramento,96,True
-400278137,2013-12-15,True,Detroit Pistons,84,Los Angeles,87,True
-400278152,2013-12-18,True,Detroit Pistons,116,Indiana,122,False
-400278163,2013-12-19,False,Detroit Pistons,124,Memphis,94,False
-400278175,2013-12-21,False,Detroit Pistons,123,Boston,104,True
-400278191,2013-12-22,True,Detroit Pistons,104,Cleveland,92,True
-400278241,2013-01-02,True,Detroit Pistons,79,San Antonio,88,False
-400278317,2013-01-13,False,Indiana Pacers,79,Toronto,92,False
-400278327,2013-01-15,False,Indiana Pacers,94,Los Angeles,100,True
-400278342,2013-01-17,False,Indiana Pacers,105,Phoenix,95,False
-400278358,2013-01-19,False,Indiana Pacers,82,Portland,100,True
-400278385,2013-01-25,False,Indiana Pacers,80,Cleveland,125,True
-400278399,2013-01-26,True,Indiana Pacers,110,Golden State,118,False
-400278419,2013-01-29,False,Indiana Pacers,109,Detroit,95,True
-400278446,2013-02-01,False,Indiana Pacers,108,NY Knicks,114,False
-400278463,2013-02-02,True,Indiana Pacers,118,Orlando,103,True
-400278524,2013-02-11,True,Indiana Pacers,122,Washington,119,True
-400278543,2013-02-19,False,Indiana Pacers,103,Brooklyn,105,False
-400278586,2013-02-23,True,Indiana Pacers,110,Atlanta,118,True
-400278693,2013-03-09,False,Indiana Pacers,108,Golden State,100,True
-400278734,2013-03-12,True,Indiana Pacers,100,Dallas,93,True
-400278762,2013-03-15,True,Indiana Pacers,96,Miami,95,True
-400277765,2013-03-22,False,Indiana Pacers,103,Indiana,94,True
-400277812,2013-03-28,True,Indiana Pacers,104,Los Angeles,86,True
-400277833,2013-03-30,True,Indiana Pacers,97,Oklahoma City,107,True
-400277854,2013-04-03,True,Indiana Pacers,87,Minnesota,94,True
-400277870,2013-04-05,False,Indiana Pacers,97,NY Knicks,92,False
-400277959,2013-04-13,False,Indiana Pacers,95,Charlotte,99,False
-400277995,2013-04-17,False,Indiana Pacers,89,Oklahoma City,96,True
-400278009,2013-10-30,False,Indiana Pacers,93,Los Angeles,83,False
-400278055,2013-11-03,True,Indiana Pacers,94,Charlotte,99,False
-400278065,2013-11-05,True,Indiana Pacers,86,Portland,99,True
-400278162,2013-11-16,False,Indiana Pacers,81,Indiana,72,True
-400278204,2013-11-21,True,Indiana Pacers,86,NY Knicks,84,False
-400278255,2013-12-01,True,Indiana Pacers,101,Detroit,98,True
-400278296,2013-12-08,False,Indiana Pacers,82,Houston,103,False
-400278375,2013-12-20,True,Indiana Pacers,91,Miami,83,False
-400278402,2013-12-23,False,Indiana Pacers,89,San Antonio,106,False
-400278411,2013-12-27,False,Indiana Pacers,85,Oklahoma City,76,True
-400278445,2013-12-30,True,Indiana Pacers,92,San Antonio,103,False
-400278477,2013-01-02,False,Indiana Pacers,105,Miami,88,True
-400278537,2013-01-10,False,Indiana Pacers,88,Sacramento,82,True
-400278588,2013-01-16,True,Indiana Pacers,91,Houston,98,False
-400278603,2013-01-18,True,Indiana Pacers,82,Oklahoma City,108,True
-400278625,2013-01-20,False,Milwaukee Bucks,91,Orlando,85,True
-400278650,2013-01-27,True,Milwaukee Bucks,96,Phoenix,85,True
-400278675,2013-01-29,False,Milwaukee Bucks,97,Portland,102,True
-400278697,2013-02-01,False,Milwaukee Bucks,80,Phoenix,87,False
-400278703,2013-02-04,False,Milwaukee Bucks,84,Oklahoma City,90,False
-400278720,2013-02-06,True,Milwaukee Bucks,92,Portland,77,True
-400278732,2013-02-09,True,Milwaukee Bucks,90,Golden State,89,True
-400278747,2013-02-11,True,Milwaukee Bucks,83,Atlanta,90,False
-400278768,2013-02-20,True,Milwaukee Bucks,94,Orlando,107,False
-400277728,2013-02-24,True,Milwaukee Bucks,99,Los Angeles,95,False
-400277741,2013-02-26,True,Milwaukee Bucks,88,Milwaukee,86,True
-400277794,2013-03-03,False,Milwaukee Bucks,107,Houston,99,True
-400277845,2013-03-08,False,Milwaukee Bucks,110,Detroit,95,False
-400277916,2013-03-17,True,Milwaukee Bucks,84,Oklahoma City,102,False
-400277937,2013-03-20,True,Milwaukee Bucks,96,Brooklyn,84,False
-400277956,2013-03-22,True,Milwaukee Bucks,100,Boston,79,False
-400278006,2013-03-30,True,Milwaukee Bucks,90,Chicago,106,False
-400278027,2013-04-02,False,Milwaukee Bucks,77,Los Angeles,70,False
-400278038,2013-04-04,False,Milwaukee Bucks,88,Denver,92,False
-400278051,2013-04-05,False,Milwaukee Bucks,113,Sacramento,102,False
-400278069,2013-04-07,False,Milwaukee Bucks,94,Portland,95,False
-400278107,2013-04-14,False,Milwaukee Bucks,94,New Orleans,99,False
-400278132,2013-04-17,True,Milwaukee Bucks,94,New Orleans,97,True
-400278157,2013-11-02,False,Milwaukee Bucks,95,Atlanta,98,True
-400278181,2013-11-03,True,Milwaukee Bucks,95,Portland,86,False
-400278227,2013-11-10,True,Milwaukee Bucks,95,Detroit,88,True
-400278256,2013-11-14,True,Milwaukee Bucks,104,New Orleans,92,True
-400278344,2013-11-27,True,Milwaukee Bucks,102,Toronto,106,False
-400278400,2013-12-07,False,Milwaukee Bucks,99,San Antonio,104,False
-400278412,2013-12-08,True,Milwaukee Bucks,98,Dallas,113,False
-400278420,2013-12-10,True,Milwaukee Bucks,86,San Antonio,115,False
-400278458,2013-12-14,True,Milwaukee Bucks,100,Boston,111,True
-400278503,2013-12-19,True,Milwaukee Bucks,99,Philadelphia,63,True
-400278577,2013-12-31,True,Milwaukee Bucks,74,Atlanta,119,False
-400278611,2013-01-04,False,Milwaukee Bucks,105,Milwaukee,102,False
-400278659,2013-01-09,False,Milwaukee Bucks,98,New Orleans,96,True
-400278690,2013-01-12,False,Milwaukee Bucks,87,Philadelphia,96,False
-400278709,2013-01-15,True,Milwaukee Bucks,95,Los Angeles,97,False
-400278771,2013-01-21,False,Milwaukee Bucks,110,Charlotte,86,True
-400277734,2013-01-26,True,Milwaukee Bucks,86,Brooklyn,84,True
-400277755,2013-01-28,False,Milwaukee Bucks,110,Utah,100,True
-400277808,2013-02-06,False,Dallas Mavericks,109,Miami,112,True
-400277857,2013-02-12,False,Dallas Mavericks,126,Golden State,100,True
-400277917,2013-02-27,True,Dallas Mavericks,92,Milwaukee,118,True
-400277930,2013-03-01,False,Dallas Mavericks,89,Orlando,110,True
-400277940,2013-03-03,True,Dallas Mavericks,100,Dallas,105,False
-400278004,2013-03-13,True,Dallas Mavericks,102,Phoenix,132,True
-400278041,2013-03-17,True,Dallas Mavericks,96,Golden State,99,False
-400278044,2013-03-20,True,Dallas Mavericks,90,Utah,98,False
-400278074,2013-03-24,True,Dallas Mavericks,93,San Antonio,107,False
-400278083,2013-03-27,True,Dallas Mavericks,106,Indiana,112,False
-400278272,2013-11-02,False,Dallas Mavericks,106,Golden State,88,True
-400278314,2013-11-09,True,Dallas Mavericks,93,Houston,98,True
-400278398,2013-11-19,True,Dallas Mavericks,102,Denver,78,True
-400278422,2013-11-23,True,Dallas Mavericks,96,Los Angeles,86,True
-400278451,2013-11-26,True,Dallas Mavericks,94,Cleveland,104,True
-400278643,2013-12-22,False,Dallas Mavericks,136,Houston,106,False
-400278664,2013-12-26,True,Dallas Mavericks,105,Philadelphia,93,True
-400278674,2013-12-29,True,Dallas Mavericks,83,Denver,107,False
-400278750,2013-01-06,False,Dallas Mavericks,104,Phoenix,97,True
-400278787,2013-01-09,False,Dallas Mavericks,100,Golden State,99,True
-400277760,2013-01-12,False,Dallas Mavericks,95,Dallas,104,True
-400277792,2013-01-16,False,Dallas Mavericks,95,San Antonio,89,False
-400277822,2013-01-19,False,Dallas Mavericks,87,Chicago,95,True
-400277869,2013-01-25,True,Dallas Mavericks,81,Brooklyn,72,True
-400277882,2013-01-27,True,Dallas Mavericks,101,New Orleans,100,True
-400277891,2013-01-28,False,Dallas Mavericks,91,Philadelphia,101,True
-400277932,2013-02-01,True,Dallas Mavericks,94,Washington,91,True
-400277980,2013-02-06,False,Dallas Mavericks,108,Atlanta,104,True
-400277993,2013-02-08,True,Dallas Mavericks,104,Golden State,95,True
-400278020,2013-02-12,True,Dallas Mavericks,92,Sacramento,101,False
-400278030,2013-02-19,False,Dallas Mavericks,80,Detroit,86,True
-400278042,2013-02-20,False,Dallas Mavericks,113,Toronto,90,True
-400278076,2013-02-24,False,Dallas Mavericks,95,Brooklyn,100,True
-400278091,2013-02-27,True,Dallas Mavericks,100,Dallas,92,False
-400278235,2013-03-18,True,Houston Rockets,103,Minnesota,108,False
-400278253,2013-03-22,False,Houston Rockets,103,New Orleans,95,True
-400278262,2013-03-23,True,Houston Rockets,83,Boston,93,False
-400278328,2013-04-01,True,Houston Rockets,104,San Antonio,96,True
-400278338,2013-04-03,False,Houston Rockets,92,Portland,104,True
-400278495,2013-11-02,True,Houston Rockets,76,Utah,108,True
-400278522,2013-11-03,False,Houston Rockets,103,Chicago,90,False
-400278579,2013-11-16,True,Houston Rockets,91,Oklahoma City,102,True
-400278613,2013-11-21,False,Houston Rockets,88,Indiana,104,False
-400278672,2013-11-28,True,Houston Rockets,81,Utah,98,False
-400278745,2013-12-11,True,Houston Rockets,104,Washington,93,False
-400277823,2013-12-28,True,Houston Rockets,92,Toronto,76,True
-400277834,2013-12-29,False,Houston Rockets,87,Charlotte,89,True
-400277904,2013-01-09,True,Houston Rockets,106,Houston,108,True
-400277921,2013-01-11,True,Houston Rockets,69,Minnesota,114,False
-400277965,2013-01-16,False,Houston Rockets,118,Boston,112,False
-400278056,2013-01-30,False,Houston Rockets,107,Utah,98,False
-400278116,2013-02-08,False,Houston Rockets,88,Atlanta,110,False
-400278131,2013-02-10,False,Houston Rockets,105,Toronto,92,False
-400278237,2013-02-24,True,Houston Rockets,112,Sacramento,102,False
-400278306,2013-03-06,True,Houston Rockets,100,Los Angeles,106,True
-400278365,2013-03-15,False,Memphis Grizzlies,102,Washington,101,True
-400278431,2013-03-22,True,Memphis Grizzlies,94,Memphis,99,False
-400278510,2013-04-05,False,Memphis Grizzlies,92,Utah,105,True
-400278544,2013-04-10,False,Memphis Grizzlies,113,Sacramento,99,False
-400278593,2013-04-14,True,Memphis Grizzlies,68,Dallas,98,False
-400278614,2013-10-31,False,Memphis Grizzlies,105,New Orleans,122,False
-400278635,2013-11-03,True,Memphis Grizzlies,116,Utah,94,False
-400278649,2013-11-05,True,Memphis Grizzlies,87,Indiana,104,False
-400278714,2013-11-13,False,Memphis Grizzlies,119,Los Angeles,114,True
-400278761,2013-11-19,True,Memphis Grizzlies,77,Los Angeles,109,False
-400278779,2013-11-21,False,Memphis Grizzlies,114,Boston,108,True
-400277750,2013-11-26,False,Memphis Grizzlies,119,Washington,116,True
-400277841,2013-12-10,False,Memphis Grizzlies,93,Houston,98,True
-400277972,2013-12-21,True,Memphis Grizzlies,101,New Orleans,105,False
-400278059,2013-12-31,True,Memphis Grizzlies,102,Brooklyn,72,True
-400278079,2013-01-02,False,Memphis Grizzlies,103,Milwaukee,92,True
-400278112,2013-01-05,True,Memphis Grizzlies,105,Philadelphia,89,True
-400278127,2013-01-07,False,Memphis Grizzlies,103,New Orleans,97,True
-400278174,2013-01-16,True,Memphis Grizzlies,110,Memphis,112,True
-400278220,2013-01-21,False,Memphis Grizzlies,99,Philadelphia,71,True
-400278249,2013-01-25,False,Memphis Grizzlies,90,Dallas,92,False
-400278281,2013-01-30,True,Memphis Grizzlies,97,Charlotte,104,False
-400278490,2013-03-03,True,Memphis Grizzlies,117,Detroit,104,True
-400278507,2013-03-06,True,Memphis Grizzlies,100,Chicago,110,True
-400278612,2013-03-24,False,Memphis Grizzlies,81,Houston,97,True
-400278623,2013-03-27,True,Memphis Grizzlies,97,Denver,96,True
-400278769,2013-04-17,True,New Orleans Hornets,94,Minnesota,108,True
-400277736,2013-11-04,False,New Orleans Hornets,102,Oklahoma City,89,True
-400277780,2013-11-11,False,New Orleans Hornets,75,Los Angeles,90,False
-400277985,2013-12-12,False,New Orleans Hornets,81,Orlando,87,False
-400278070,2013-12-22,True,New Orleans Hornets,102,Chicago,93,True
-400278088,2013-12-26,True,New Orleans Hornets,90,Detroit,83,True
-400278121,2013-12-29,True,New Orleans Hornets,97,Indiana,93,False
-400278145,2013-01-01,False,New Orleans Hornets,97,New Orleans,105,False
-400278230,2013-01-11,True,New Orleans Hornets,119,Utah,125,False
-400278244,2013-01-12,False,New Orleans Hornets,105,Washington,108,False
-400278276,2013-01-16,True,New Orleans Hornets,91,Brooklyn,120,False
-400278476,2013-02-20,True,New Orleans Hornets,110,Miami,104,True
-400278694,2013-03-18,True,New Orleans Hornets,104,Dallas,117,False
-400278743,2013-03-25,False,New Orleans Hornets,97,Indiana,89,False
-400277853,2013-04-16,True,New Orleans Hornets,83,Toronto,76,False
-400277929,2013-11-09,False,San Antonio Spurs,84,New Orleans,82,True
-400278224,2013-12-18,False,San Antonio Spurs,101,Los Angeles,99,True
-400278311,2013-12-26,True,San Antonio Spurs,108,Miami,112,True
-400278333,2013-12-29,True,San Antonio Spurs,95,New Orleans,98,True
-400278345,2013-12-31,False,San Antonio Spurs,88,Chicago,92,False
-400278352,2013-01-04,True,San Antonio Spurs,114,Cleveland,101,True
-400278532,2013-01-28,False,San Antonio Spurs,119,Chicago,113,True
-400278627,2013-02-09,False,San Antonio Spurs,82,Philadelphia,87,False
-400278785,2013-03-08,True,San Antonio Spurs,80,Oklahoma City,103,False
-400277799,2013-03-20,True,San Antonio Spurs,104,Toronto,84,True
-400277886,2013-04-01,False,San Antonio Spurs,94,Milwaukee,101,True
-400277922,2013-04-06,False,San Antonio Spurs,103,Brooklyn,105,False
-400278039,2013-11-03,True,San Antonio Spurs,105,Denver,108,False
-400278099,2013-11-11,False,San Antonio Spurs,93,Memphis,101,False
-400278197,2013-11-29,True,Atlanta Hawks,101,San Antonio,97,False
-400278217,2013-12-01,True,Atlanta Hawks,110,Brooklyn,91,True
-400278288,2013-12-12,True,Atlanta Hawks,115,Golden State,111,True
-400278294,2013-12-15,True,Atlanta Hawks,97,Washington,117,False
-400278324,2013-12-20,False,Atlanta Hawks,121,Dallas,118,True
-400278580,2013-01-23,True,Atlanta Hawks,109,Toronto,111,True
-400278595,2013-01-25,True,Atlanta Hawks,105,Detroit,103,True
-400278651,2013-02-03,False,Atlanta Hawks,111,Toronto,88,True
-400278726,2013-02-12,True,Atlanta Hawks,104,Portland,114,True
-400277902,2013-03-15,False,Atlanta Hawks,95,Milwaukee,103,False
-400278097,2013-04-09,True,Atlanta Hawks,99,Milwaukee,93,True
-400278193,2013-04-15,False,Atlanta Hawks,84,Cleveland,106,False
-400278214,2013-11-02,True,Atlanta Hawks,102,Denver,97,False
-400278243,2013-11-06,False,Atlanta Hawks,84,Chicago,106,False
-400278433,2013-12-02,False,Atlanta Hawks,100,Los Angeles,98,False
-400278504,2013-12-12,True,Charlotte Bobcats,97,Atlanta,93,False
-400278539,2013-12-15,False,Charlotte Bobcats,111,Charlotte,127,False
-400278599,2013-12-23,True,Charlotte Bobcats,94,Utah,109,False
-400277742,2013-01-27,True,Charlotte Bobcats,106,Detroit,92,True
-400277949,2013-02-27,True,Charlotte Bobcats,106,Sacramento,94,True
-400278274,2013-04-07,False,Charlotte Bobcats,83,Cleveland,87,True
-400278492,2013-11-24,True,Charlotte Bobcats,94,Charlotte,109,False
-400278682,2013-12-21,False,Charlotte Bobcats,110,Detroit,87,True
-400278763,2013-01-02,False,Miami Heat,103,Indiana,83,True
-400278413,2013-04-07,False,Miami Heat,77,Boston,86,False
-400278423,2013-04-09,False,Miami Heat,105,NY Knicks,99,True
+id,date,home_team,home_team_score,visit_team,visit_team_score
+400277722,2013-10-30,Miami,120,Boston Celtics,107
+400277737,2013-11-02,Boston Celtics,88,Milwaukee,99
+400277747,2013-11-03,Washington,86,Boston Celtics,89
+400277774,2013-11-07,Boston Celtics,100,Washington,94
+400277790,2013-11-09,Boston Celtics,100,Philadelphia,106
+400277806,2013-11-10,Milwaukee,92,Boston Celtics,96
+400277818,2013-11-12,Chicago,95,Boston Celtics,101
+400277830,2013-11-14,Boston Celtics,98,Utah,93
+400277839,2013-11-15,Brooklyn,102,Boston Celtics,97
+400277851,2013-11-17,Boston Celtics,107,Toronto,89
+400277864,2013-11-18,Detroit,103,Boston Celtics,83
+400277881,2013-11-21,Boston Celtics,100,San Antonio,112
+400277893,2013-11-23,Boston Celtics,108,Oklahoma City,100
+400277915,2013-11-25,Orlando,110,Boston Celtics,116
+400277931,2013-11-28,Boston Celtics,83,Brooklyn,95
+400277945,2013-11-30,Boston Celtics,96,Portland,78
+400277958,2013-12-01,Milwaukee,91,Boston Celtics,88
+400277979,2013-12-05,Boston Celtics,104,Minnesota,94
+400277990,2013-12-07,Philadelphia,95,Boston Celtics,94
+400278005,2013-12-08,Boston Celtics,92,Philadelphia,79
+400278035,2013-12-12,Boston Celtics,117,Dallas,115
+400278052,2013-12-14,Houston,101,Boston Celtics,89
+400278064,2013-12-15,San Antonio,103,Boston Celtics,88
+400278080,2013-12-18,Chicago,100,Boston Celtics,89
+400278090,2013-12-19,Boston Celtics,103,Cleveland,91
+400278102,2013-12-21,Boston Celtics,94,Milwaukee,99
+400278125,2013-12-25,Brooklyn,76,Boston Celtics,93
+400278144,2013-12-27,Los Angeles,106,Boston Celtics,77
+400278167,2013-12-29,Golden State,101,Boston Celtics,83
+400278170,2013-12-30,Sacramento,118,Boston Celtics,96
+400278188,2013-01-02,Boston Celtics,83,Memphis,93
+400278203,2013-01-04,Boston Celtics,94,Indiana,75
+400278209,2013-01-05,Atlanta,81,Boston Celtics,89
+400278225,2013-01-07,NY Knicks,96,Boston Celtics,102
+400278239,2013-01-09,Boston Celtics,87,Phoenix,79
+400278251,2013-01-11,Boston Celtics,103,Houston,91
+400278277,2013-01-14,Boston Celtics,100,Charlotte,89
+400278293,2013-01-16,Boston Celtics,78,New Orleans,90
+400278304,2013-01-18,Boston Celtics,99,Chicago,100
+400278323,2013-01-20,Detroit,103,Boston Celtics,88
+400278334,2013-01-22,Cleveland,95,Boston Celtics,90
+400278350,2013-01-24,Boston Celtics,86,NY Knicks,89
+400278353,2013-01-25,Atlanta,123,Boston Celtics,111
+400278372,2013-01-27,Boston Celtics,100,Miami,98
+400278392,2013-01-30,Boston Celtics,99,Sacramento,81
+400278406,2013-02-01,Boston Celtics,97,Orlando,84
+400278425,2013-02-03,Boston Celtics,106,Los Angeles,104
+400278440,2013-02-06,Toronto,95,Boston Celtics,99
+400278453,2013-02-07,Boston Celtics,116,Los Angeles,95
+400278474,2013-02-10,Boston Celtics,118,Denver,114
+400278482,2013-02-11,Charlotte,94,Boston Celtics,91
+400278498,2013-02-13,Boston Celtics,71,Chicago,69
+400278514,2013-02-19,Denver,97,Boston Celtics,90
+400278527,2013-02-20,Los Angeles,113,Boston Celtics,99
+400278540,2013-02-22,Phoenix,88,Boston Celtics,113
+400278557,2013-02-24,Portland,92,Boston Celtics,86
+400278562,2013-02-25,Utah,107,Boston Celtics,110
+400278587,2013-03-01,Boston Celtics,94,Golden State,86
+400278616,2013-03-05,Philadelphia,101,Boston Celtics,109
+400278621,2013-03-06,Indiana,81,Boston Celtics,83
+400278637,2013-03-08,Boston Celtics,107,Atlanta,102
+400278654,2013-03-10,Oklahoma City,91,Boston Celtics,79
+400278668,2013-03-12,Charlotte,100,Boston Celtics,74
+400278679,2013-03-13,Boston Celtics,112,Toronto,88
+400278700,2013-03-16,Boston Celtics,105,Charlotte,88
+400278718,2013-03-18,Boston Celtics,103,Miami,105
+400278733,2013-03-20,New Orleans,87,Boston Celtics,86
+400278749,2013-03-22,Dallas,104,Boston Celtics,94
+400278756,2013-03-23,Memphis,110,Boston Celtics,106
+400278774,2013-03-26,Boston Celtics,85,NY Knicks,100
+400278780,2013-03-27,Cleveland,92,Boston Celtics,93
+400278795,2013-03-29,Boston Celtics,118,Atlanta,107
+400277749,2013-11-03,Brooklyn Nets,107,Toronto,100
+400277763,2013-11-05,Brooklyn Nets,96,Minnesota,107
+400277776,2013-11-07,Miami,103,Brooklyn Nets,73
+400277789,2013-11-09,Orlando,68,Brooklyn Nets,107
+400277810,2013-11-11,Brooklyn Nets,82,Orlando,74
+400277826,2013-11-13,Brooklyn Nets,114,Cleveland,101
+400277862,2013-11-18,Sacramento,90,Brooklyn Nets,99
+400277876,2013-11-20,Los Angeles,95,Brooklyn Nets,90
+400277890,2013-11-21,Golden State,102,Brooklyn Nets,93
+400277894,2013-11-23,Brooklyn Nets,86,Los Angeles,76
+400277913,2013-11-25,Brooklyn Nets,98,Portland,85
+400431053,2013-11-26,Brooklyn Nets,96,NY Knicks,89
+400277944,2013-11-30,Orlando,86,Brooklyn Nets,98
+400277953,2013-12-01,Miami,102,Brooklyn Nets,89
+400277973,2013-12-04,Brooklyn Nets,111,Oklahoma City,117
+400277992,2013-12-07,Brooklyn Nets,102,Golden State,109
+400278013,2013-12-09,Brooklyn Nets,88,Milwaukee,97
+400278024,2013-12-11,Brooklyn Nets,97,NY Knicks,100
+400278029,2013-12-12,Toronto,88,Brooklyn Nets,94
+400278048,2013-12-14,Brooklyn Nets,107,Detroit,105
+400278061,2013-12-15,Chicago,83,Brooklyn Nets,82
+400278078,2013-12-18,Brooklyn Nets,90,Utah,92
+400278087,2013-12-19,NY Knicks,100,Brooklyn Nets,86
+400278119,2013-12-23,Brooklyn Nets,95,Philadelphia,92
+400278135,2013-12-26,Milwaukee,108,Brooklyn Nets,93
+400278147,2013-12-28,Brooklyn Nets,97,Charlotte,81
+400278160,2013-12-29,Brooklyn Nets,103,Cleveland,100
+400278177,2013-12-31,San Antonio,104,Brooklyn Nets,73
+400278192,2013-01-02,Oklahoma City,93,Brooklyn Nets,110
+400278199,2013-01-04,Washington,113,Brooklyn Nets,115
+400278212,2013-01-05,Brooklyn Nets,113,Sacramento,93
+400278231,2013-01-08,Philadelphia,89,Brooklyn Nets,109
+400278252,2013-01-11,Brooklyn Nets,99,Phoenix,79
+400278271,2013-01-13,Brooklyn Nets,97,Indiana,86
+400278286,2013-01-15,Brooklyn Nets,113,Toronto,106
+400278292,2013-01-16,Atlanta,109,Brooklyn Nets,95
+400278308,2013-01-18,Brooklyn Nets,94,Atlanta,89
+400278329,2013-01-21,NY Knicks,85,Brooklyn Nets,88
+400278343,2013-01-23,Minnesota,83,Brooklyn Nets,91
+400278357,2013-01-25,Memphis,101,Brooklyn Nets,77
+400278366,2013-01-26,Houston,119,Brooklyn Nets,106
+400278382,2013-01-28,Brooklyn Nets,97,Orlando,77
+400278395,2013-01-30,Brooklyn Nets,85,Miami,105
+400278407,2013-02-01,Brooklyn Nets,93,Chicago,89
+400278436,2013-02-05,Brooklyn Nets,83,Los Angeles,92
+400278447,2013-02-06,Detroit,90,Brooklyn Nets,93
+400278455,2013-02-08,Washington,89,Brooklyn Nets,74
+400278478,2013-02-10,Brooklyn Nets,86,San Antonio,111
+400278484,2013-02-11,Indiana,84,Brooklyn Nets,89
+400278499,2013-02-13,Brooklyn Nets,119,Denver,108
+400278511,2013-02-19,Brooklyn Nets,113,Milwaukee,111
+400278523,2013-02-20,Milwaukee,94,Brooklyn Nets,97
+400278535,2013-02-22,Brooklyn Nets,96,Houston,106
+400278551,2013-02-24,Brooklyn Nets,72,Memphis,76
+400278567,2013-02-26,New Orleans,97,Brooklyn Nets,101
+400278590,2013-03-01,Brooklyn Nets,90,Dallas,98
+400278597,2013-03-02,Chicago,96,Brooklyn Nets,85
+400278619,2013-03-06,Charlotte,78,Brooklyn Nets,99
+400278638,2013-03-08,Brooklyn Nets,95,Washington,78
+400278647,2013-03-09,Atlanta,80,Brooklyn Nets,93
+400278663,2013-03-11,Philadelphia,106,Brooklyn Nets,97
+400278671,2013-03-12,Brooklyn Nets,108,New Orleans,98
+400278711,2013-03-17,Brooklyn Nets,93,Atlanta,105
+400278717,2013-03-18,Detroit,82,Brooklyn Nets,119
+400278735,2013-03-20,Dallas,96,Brooklyn Nets,113
+400278758,2013-03-23,Los Angeles,101,Brooklyn Nets,95
+400278766,2013-03-24,Phoenix,100,Brooklyn Nets,102
+400278790,2013-03-27,Portland,93,Brooklyn Nets,111
+400278803,2013-03-29,Denver,109,Brooklyn Nets,87
+400277740,2013-11-02,New York Knicks,104,Miami,84
+400277757,2013-11-04,New York Knicks,100,Philadelphia,84
+400277762,2013-11-05,Philadelphia,88,New York Knicks,110
+400277791,2013-11-09,New York Knicks,104,Dallas,94
+400277824,2013-11-13,Orlando,89,New York Knicks,99
+400277840,2013-11-15,San Antonio,100,New York Knicks,104
+400277847,2013-11-16,Memphis,105,New York Knicks,95
+400277859,2013-11-18,New York Knicks,88,Indiana,76
+400277875,2013-11-20,New Orleans,80,New York Knicks,102
+400277887,2013-11-21,Dallas,114,New York Knicks,111
+400277898,2013-11-23,Houston,131,New York Knicks,103
+400277912,2013-11-25,New York Knicks,121,Detroit,100
+400277935,2013-11-28,Milwaukee,88,New York Knicks,102
+400277946,2013-11-30,New York Knicks,108,Washington,87
+400277963,2013-12-02,New York Knicks,106,Phoenix,99
+400277977,2013-12-05,Charlotte,98,New York Knicks,100
+400277988,2013-12-06,Miami,92,New York Knicks,112
+400278008,2013-12-08,Chicago,93,New York Knicks,85
+400278015,2013-12-09,New York Knicks,112,Denver,106
+400278043,2013-12-13,New York Knicks,116,Los Angeles,107
+400278058,2013-12-15,New York Knicks,103,Cleveland,102
+400278071,2013-12-17,New York Knicks,96,Houston,109
+400278103,2013-12-21,New York Knicks,106,Chicago,110
+400278120,2013-12-23,New York Knicks,94,Minnesota,91
+400278126,2013-12-25,Los Angeles,100,New York Knicks,94
+400278141,2013-12-26,Phoenix,97,New York Knicks,99
+400278154,2013-12-28,Sacramento,106,New York Knicks,105
+400278179,2013-01-01,New York Knicks,100,Portland,105
+400278196,2013-01-03,New York Knicks,100,San Antonio,83
+400278210,2013-01-05,Orlando,106,New York Knicks,114
+400278247,2013-01-10,Indiana,81,New York Knicks,76
+400278254,2013-01-11,New York Knicks,101,Chicago,108
+400278269,2013-01-13,New York Knicks,100,New Orleans,87
+400278300,2013-01-17,Detroit,87,New York Knicks,102
+400278363,2013-01-26,Philadelphia,97,New York Knicks,80
+400278376,2013-01-27,New York Knicks,106,Atlanta,104
+400278393,2013-01-30,New York Knicks,113,Orlando,97
+400278408,2013-02-01,New York Knicks,96,Milwaukee,86
+400278417,2013-02-02,New York Knicks,120,Sacramento,81
+400278430,2013-02-04,New York Knicks,99,Detroit,85
+400278442,2013-02-06,Washington,106,New York Knicks,96
+400278465,2013-02-08,Minnesota,94,New York Knicks,100
+400278472,2013-02-10,New York Knicks,88,Los Angeles,102
+400278500,2013-02-13,New York Knicks,88,Toronto,92
+400278521,2013-02-20,Indiana,125,New York Knicks,91
+400278531,2013-02-22,Toronto,100,New York Knicks,98
+400278555,2013-02-24,New York Knicks,99,Philadelphia,93
+400278573,2013-02-27,New York Knicks,109,Golden State,105
+400278585,2013-03-01,Washington,88,New York Knicks,96
+400278600,2013-03-03,New York Knicks,93,Miami,99
+400278609,2013-03-04,Cleveland,97,New York Knicks,102
+400278624,2013-03-06,Detroit,77,New York Knicks,87
+400278633,2013-03-07,New York Knicks,94,Oklahoma City,95
+400278648,2013-03-09,New York Knicks,113,Utah,84
+400278667,2013-03-11,Golden State,92,New York Knicks,63
+400278684,2013-03-13,Denver,117,New York Knicks,94
+400278688,2013-03-14,Portland,105,New York Knicks,90
+400278707,2013-03-17,Los Angeles,93,New York Knicks,80
+400278723,2013-03-18,Utah,83,New York Knicks,90
+400278730,2013-03-20,New York Knicks,106,Orlando,94
+400278742,2013-03-22,Toronto,94,New York Knicks,99
+400278754,2013-03-23,New York Knicks,110,Toronto,84
+400278781,2013-03-27,New York Knicks,108,Memphis,101
+400278796,2013-03-29,New York Knicks,111,Charlotte,102
+400277725,2013-10-31,Philadelphia 76ers,84,Denver,75
+400277778,2013-11-07,New Orleans,62,Philadelphia 76ers,77
+400277801,2013-11-10,Toronto,83,Philadelphia 76ers,93
+400277816,2013-11-12,Philadelphia 76ers,96,Milwaukee,105
+400277829,2013-11-14,Philadelphia 76ers,76,Detroit,94
+400277842,2013-11-16,Philadelphia 76ers,99,Utah,93
+400277861,2013-11-18,Philadelphia 76ers,86,Cleveland,79
+400277874,2013-11-20,Philadelphia 76ers,106,Toronto,98
+400277879,2013-11-21,Cleveland,92,Philadelphia 76ers,83
+400277903,2013-11-24,Philadelphia 76ers,109,Oklahoma City,116
+400277914,2013-11-25,Philadelphia 76ers,104,Phoenix,101
+400277924,2013-11-27,Philadelphia 76ers,100,Dallas,98
+400277943,2013-11-30,Charlotte,98,Philadelphia 76ers,104
+400277955,2013-12-01,Chicago,93,Philadelphia 76ers,88
+400277971,2013-12-04,Philadelphia 76ers,88,Minnesota,105
+400278018,2013-12-10,Philadelphia 76ers,104,Detroit,97
+400278032,2013-12-12,Philadelphia 76ers,89,Chicago,96
+400278047,2013-12-14,Indiana,95,Philadelphia 76ers,85
+400278067,2013-12-16,Philadelphia 76ers,98,Los Angeles,111
+400278082,2013-12-18,Dallas,107,Philadelphia 76ers,100
+400278092,2013-12-19,Houston,125,Philadelphia 76ers,103
+400278101,2013-12-21,Philadelphia 76ers,99,Atlanta,80
+400278136,2013-12-26,Memphis,89,Philadelphia 76ers,99
+400278156,2013-12-28,Golden State,96,Philadelphia 76ers,89
+400278166,2013-12-29,Portland,89,Philadelphia 76ers,85
+400278183,2013-01-01,Los Angeles,99,Philadelphia 76ers,103
+400278194,2013-01-02,Phoenix,95,Philadelphia 76ers,89
+400278205,2013-01-04,Oklahoma City,109,Philadelphia 76ers,85
+400278216,2013-01-05,San Antonio,109,Philadelphia 76ers,86
+400278236,2013-01-09,Toronto,90,Philadelphia 76ers,72
+400278264,2013-01-12,Philadelphia 76ers,107,Houston,100
+400278284,2013-01-15,Philadelphia 76ers,99,New Orleans,111
+400278305,2013-01-18,Philadelphia 76ers,108,Toronto,101
+400278331,2013-01-21,Philadelphia 76ers,85,San Antonio,90
+400278336,2013-01-22,Milwaukee,110,Philadelphia 76ers,102
+400278380,2013-01-28,Philadelphia 76ers,100,Memphis,103
+400278390,2013-01-30,Philadelphia 76ers,92,Washington,84
+400278409,2013-02-01,Philadelphia 76ers,89,Sacramento,80
+400278428,2013-02-04,Philadelphia 76ers,78,Orlando,61
+400278441,2013-02-06,Philadelphia 76ers,69,Indiana,88
+400278468,2013-02-09,Philadelphia 76ers,87,Charlotte,76
+400278481,2013-02-11,Philadelphia 76ers,90,Los Angeles,107
+400278502,2013-02-13,Milwaukee,94,Philadelphia 76ers,92
+400278525,2013-02-20,Minnesota,94,Philadelphia 76ers,87
+400278546,2013-02-23,Philadelphia 76ers,90,Miami,114
+400278563,2013-02-26,Philadelphia 76ers,84,Orlando,98
+400278582,2013-02-28,Chicago,93,Philadelphia 76ers,82
+400278596,2013-03-02,Philadelphia 76ers,104,Golden State,97
+400278602,2013-03-03,Washington,90,Philadelphia 76ers,87
+400278622,2013-03-06,Atlanta,107,Philadelphia 76ers,96
+400278641,2013-03-08,Miami,102,Philadelphia 76ers,93
+400278657,2013-03-10,Orlando,99,Philadelphia 76ers,91
+400278676,2013-03-13,Philadelphia 76ers,94,Miami,98
+400278701,2013-03-16,Philadelphia 76ers,98,Indiana,91
+400278713,2013-03-18,Philadelphia 76ers,101,Portland,100
+400278738,2013-03-20,Los Angeles,101,Philadelphia 76ers,72
+400278740,2013-03-21,Denver,101,Philadelphia 76ers,100
+400278767,2013-03-24,Sacramento,103,Philadelphia 76ers,117
+400278772,2013-03-25,Utah,107,Philadelphia 76ers,91
+400278778,2013-03-27,Philadelphia 76ers,100,Milwaukee,92
+400278798,2013-03-29,Cleveland,87,Philadelphia 76ers,97
+400277724,2013-10-31,Toronto Raptors,88,Indiana,90
+400277758,2013-11-04,Toronto Raptors,105,Minnesota,86
+400277771,2013-11-06,Oklahoma City,108,Toronto Raptors,88
+400277781,2013-11-07,Dallas,109,Toronto Raptors,104
+400277815,2013-11-12,Toronto Raptors,133,Utah,140
+400277825,2013-11-13,Indiana,72,Toronto Raptors,74
+400277860,2013-11-18,Toronto Raptors,97,Orlando,86
+400277877,2013-11-21,Charlotte,98,Toronto Raptors,97
+400277895,2013-11-23,Detroit,91,Toronto Raptors,90
+400277911,2013-11-25,Toronto Raptors,106,San Antonio,111
+400277926,2013-11-27,Houston,117,Toronto Raptors,101
+400277936,2013-11-28,Memphis,103,Toronto Raptors,82
+400277942,2013-11-30,Toronto Raptors,101,Phoenix,97
+400277968,2013-12-03,Denver,113,Toronto Raptors,110
+400277986,2013-12-05,Sacramento,107,Toronto Raptors,100
+400277999,2013-12-07,Utah,131,Toronto Raptors,99
+400278012,2013-12-09,Los Angeles,102,Toronto Raptors,83
+400278023,2013-12-10,Portland,92,Toronto Raptors,74
+400278045,2013-12-14,Toronto Raptors,95,Dallas,74
+400278066,2013-12-16,Toronto Raptors,103,Houston,96
+400278077,2013-12-18,Cleveland,99,Toronto Raptors,113
+400278086,2013-12-19,Toronto Raptors,97,Detroit,91
+400278100,2013-12-21,Toronto Raptors,93,Orlando,90
+400278138,2013-12-26,San Antonio,100,Toronto Raptors,80
+400278150,2013-12-28,New Orleans,97,Toronto Raptors,104
+400278159,2013-12-29,Orlando,88,Toronto Raptors,123
+400278184,2013-01-02,Toronto Raptors,102,Portland,79
+400278198,2013-01-04,Toronto Raptors,96,Sacramento,105
+400278219,2013-01-06,Toronto Raptors,92,Oklahoma City,104
+400278250,2013-01-11,Toronto Raptors,99,Charlotte,78
+400278270,2013-01-13,Toronto Raptors,96,Milwaukee,107
+400278290,2013-01-16,Toronto Raptors,105,Chicago,107
+400278321,2013-01-20,Toronto Raptors,108,Los Angeles,103
+400278339,2013-01-23,Miami,123,Toronto Raptors,116
+400278349,2013-01-24,Orlando,95,Toronto Raptors,97
+400278362,2013-01-26,Toronto Raptors,98,Cleveland,99
+400278379,2013-01-28,Toronto Raptors,102,Golden State,114
+400278394,2013-01-30,Atlanta,93,Toronto Raptors,92
+400278404,2013-02-01,Toronto Raptors,98,Los Angeles,73
+400278427,2013-02-03,Toronto Raptors,85,Miami,100
+400278457,2013-02-08,Indiana,98,Toronto Raptors,100
+400278475,2013-02-10,Toronto Raptors,102,New Orleans,89
+400278489,2013-02-12,Toronto Raptors,109,Denver,108
+400278509,2013-02-19,Washington,88,Toronto Raptors,96
+400278518,2013-02-20,Toronto Raptors,82,Memphis,88
+400278559,2013-02-25,Toronto Raptors,84,Washington,90
+400278572,2013-02-27,Cleveland,103,Toronto Raptors,92
+400278584,2013-03-01,Toronto Raptors,81,Indiana,93
+400278598,2013-03-02,Milwaukee,122,Toronto Raptors,114
+400278615,2013-03-04,Golden State,125,Toronto Raptors,118
+400278630,2013-03-06,Phoenix,71,Toronto Raptors,98
+400278645,2013-03-08,Los Angeles,118,Toronto Raptors,116
+400278656,2013-03-10,Toronto Raptors,100,Cleveland,96
+400278689,2013-03-15,Toronto Raptors,92,Charlotte,78
+400278705,2013-03-17,Toronto Raptors,91,Miami,108
+400278728,2013-03-20,Charlotte,107,Toronto Raptors,101
+400278777,2013-03-27,Toronto Raptors,88,Atlanta,107
+400278797,2013-03-29,Detroit,82,Toronto Raptors,99
+400277730,2013-10-31,Phoenix,85,Golden State Warriors,87
+400277746,2013-11-02,Golden State Warriors,94,Memphis,104
+400277756,2013-11-03,Los Angeles,110,Golden State Warriors,114
+400277768,2013-11-05,Sacramento,94,Golden State Warriors,92
+400277785,2013-11-07,Golden State Warriors,106,Cleveland,96
+400277800,2013-11-09,Los Angeles,101,Golden State Warriors,77
+400277809,2013-11-10,Golden State Warriors,101,Denver,107
+400277838,2013-11-14,Golden State Warriors,92,Atlanta,88
+400277846,2013-11-16,Minnesota,98,Golden State Warriors,106
+400277863,2013-11-18,Oklahoma City,119,Golden State Warriors,109
+400277871,2013-11-19,Dallas,101,Golden State Warriors,105
+400277899,2013-11-23,Denver,102,Golden State Warriors,91
+400277910,2013-11-24,Golden State Warriors,96,Minnesota,85
+400277941,2013-11-29,Golden State Warriors,106,Denver,105
+400277962,2013-12-01,Golden State Warriors,103,Indiana,92
+400277970,2013-12-03,Golden State Warriors,94,Orlando,102
+400277981,2013-12-05,Detroit,97,Golden State Warriors,104
+400278003,2013-12-08,Washington,97,Golden State Warriors,101
+400278019,2013-12-10,Charlotte,96,Golden State Warriors,104
+400278034,2013-12-12,Miami,95,Golden State Warriors,97
+400278050,2013-12-14,Orlando,99,Golden State Warriors,85
+400278057,2013-12-15,Atlanta,93,Golden State Warriors,115
+400278085,2013-12-18,Golden State Warriors,103,New Orleans,96
+400278095,2013-12-19,Sacramento,131,Golden State Warriors,127
+400278109,2013-12-21,Golden State Warriors,115,Charlotte,100
+400278118,2013-12-22,Golden State Warriors,115,Los Angeles,118
+400278140,2013-12-26,Utah,83,Golden State Warriors,94
+400278195,2013-01-02,Golden State Warriors,115,Los Angeles,94
+400278218,2013-01-05,Los Angeles,115,Golden State Warriors,89
+400278246,2013-01-09,Golden State Warriors,87,Memphis,94
+400278260,2013-01-11,Golden State Warriors,103,Portland,97
+400278273,2013-01-13,Denver,116,Golden State Warriors,105
+400278299,2013-01-16,Golden State Warriors,75,Miami,92
+400278310,2013-01-18,San Antonio,95,Golden State Warriors,88
+400278316,2013-01-19,New Orleans,112,Golden State Warriors,116
+400278330,2013-01-21,Golden State Warriors,106,Los Angeles,99
+400278348,2013-01-23,Golden State Warriors,104,Oklahoma City,99
+400278356,2013-01-25,Chicago,103,Golden State Warriors,87
+400278367,2013-01-26,Milwaukee,109,Golden State Warriors,102
+400278386,2013-01-29,Cleveland,95,Golden State Warriors,108
+400278403,2013-01-31,Golden State Warriors,100,Dallas,97
+400278424,2013-02-02,Golden State Warriors,113,Phoenix,93
+400278438,2013-02-05,Houston,140,Golden State Warriors,109
+400278449,2013-02-06,Oklahoma City,119,Golden State Warriors,98
+400278462,2013-02-08,Memphis,99,Golden State Warriors,93
+400278470,2013-02-09,Dallas,116,Golden State Warriors,91
+400278494,2013-02-12,Golden State Warriors,107,Houston,116
+400278515,2013-02-19,Utah,115,Golden State Warriors,101
+400278528,2013-02-20,Golden State Warriors,108,Phoenix,98
+400278542,2013-02-22,Golden State Warriors,107,San Antonio,101
+400278552,2013-02-24,Minnesota,99,Golden State Warriors,100
+400278564,2013-02-26,Indiana,108,Golden State Warriors,97
+400278632,2013-03-06,Golden State Warriors,87,Sacramento,83
+400278646,2013-03-08,Golden State Warriors,88,Houston,94
+400278653,2013-03-09,Golden State Warriors,93,Milwaukee,103
+400278686,2013-03-13,Golden State Warriors,105,Detroit,97
+400278698,2013-03-15,Golden State Warriors,95,Chicago,113
+400278708,2013-03-17,Houston,78,Golden State Warriors,108
+400278721,2013-03-18,New Orleans,72,Golden State Warriors,93
+400278736,2013-03-20,San Antonio,104,Golden State Warriors,93
+400278759,2013-03-23,Golden State Warriors,101,Washington,92
+400278773,2013-03-25,Golden State Warriors,109,Los Angeles,103
+400278789,2013-03-27,Golden State Warriors,98,Sacramento,105
+400277731,2013-10-31,Los Angeles Clippers,101,Memphis,92
+400277745,2013-11-02,Los Angeles,95,Los Angeles Clippers,105
+400277769,2013-11-05,Los Angeles Clippers,101,Cleveland,108
+400277784,2013-11-07,Los Angeles Clippers,106,San Antonio,84
+400277787,2013-11-08,Portland,90,Los Angeles Clippers,103
+400277811,2013-11-11,Los Angeles Clippers,89,Atlanta,76
+400277837,2013-11-14,Los Angeles Clippers,107,Miami,100
+400277852,2013-11-17,Los Angeles Clippers,101,Chicago,80
+400277872,2013-11-19,San Antonio,87,Los Angeles Clippers,92
+400277884,2013-11-21,Oklahoma City,117,Los Angeles Clippers,111
+400277905,2013-11-24,Atlanta,104,Los Angeles Clippers,93
+400277923,2013-11-26,Los Angeles Clippers,98,New Orleans,105
+400277939,2013-11-28,Los Angeles Clippers,101,Minnesota,95
+400277961,2013-12-01,Los Angeles Clippers,116,Sacramento,81
+400277969,2013-12-03,Utah,104,Los Angeles Clippers,105
+400277987,2013-12-05,Los Angeles Clippers,112,Dallas,90
+400278002,2013-12-08,Los Angeles Clippers,117,Phoenix,99
+400278028,2013-12-11,Chicago,89,Los Angeles Clippers,94
+400278033,2013-12-12,Charlotte,94,Los Angeles Clippers,100
+400278063,2013-12-15,Milwaukee,85,Los Angeles Clippers,111
+400278072,2013-12-17,Detroit,76,Los Angeles Clippers,88
+400278096,2013-12-19,Los Angeles Clippers,93,New Orleans,77
+400278108,2013-12-21,Los Angeles Clippers,97,Sacramento,85
+400278123,2013-12-23,Phoenix,77,Los Angeles Clippers,103
+400278129,2013-12-25,Los Angeles Clippers,112,Denver,100
+400278153,2013-12-28,Utah,114,Los Angeles Clippers,116
+400278171,2013-12-30,Los Angeles Clippers,107,Utah,96
+400278182,2013-01-01,Denver,92,Los Angeles Clippers,78
+400278208,2013-01-04,Los Angeles Clippers,107,Los Angeles,102
+400278245,2013-01-09,Los Angeles Clippers,99,Dallas,93
+400278261,2013-01-12,Los Angeles Clippers,101,Orlando,104
+400278279,2013-01-14,Memphis,73,Los Angeles Clippers,99
+400278287,2013-01-15,Houston,109,Los Angeles Clippers,117
+400278301,2013-01-17,Minnesota,77,Los Angeles Clippers,90
+400278320,2013-01-19,Los Angeles Clippers,94,Washington,87
+400278337,2013-01-22,Los Angeles Clippers,97,Oklahoma City,109
+400278351,2013-01-24,Phoenix,93,Los Angeles Clippers,88
+400278371,2013-01-26,Portland,101,Los Angeles Clippers,100
+400278378,2013-01-27,Los Angeles Clippers,96,Portland,83
+400278397,2013-01-30,Minnesota,90,Los Angeles Clippers,96
+400278429,2013-02-04,Washington,98,Los Angeles Clippers,90
+400278443,2013-02-06,Orlando,76,Los Angeles Clippers,86
+400278461,2013-02-08,Miami,111,Los Angeles Clippers,89
+400278506,2013-02-13,Los Angeles Clippers,106,Houston,96
+400278508,2013-02-14,Los Angeles,101,Los Angeles Clippers,125
+400278530,2013-02-21,Los Angeles Clippers,90,San Antonio,116
+400278549,2013-02-23,Los Angeles Clippers,107,Utah,94
+400278570,2013-02-26,Los Angeles Clippers,106,Charlotte,84
+400278581,2013-02-28,Indiana,91,Los Angeles Clippers,99
+400278589,2013-03-01,Cleveland,89,Los Angeles Clippers,105
+400278601,2013-03-03,Los Angeles Clippers,104,Oklahoma City,108
+400278631,2013-03-06,Los Angeles Clippers,117,Milwaukee,101
+400278634,2013-03-07,Denver,107,Los Angeles Clippers,92
+400278662,2013-03-10,Los Angeles Clippers,129,Detroit,97
+400278685,2013-03-13,Los Angeles Clippers,85,Memphis,96
+400278727,2013-03-19,Sacramento,116,Los Angeles Clippers,101
+400278776,2013-03-26,Dallas,109,Los Angeles Clippers,102
+400278783,2013-03-27,New Orleans,91,Los Angeles Clippers,105
+400278802,2013-03-29,San Antonio,104,Los Angeles Clippers,102
+400277723,2013-10-30,Los Angeles Lakers,91,Dallas,99
+400277732,2013-10-31,Portland,116,Los Angeles Lakers,106
+400277761,2013-11-04,Los Angeles Lakers,108,Detroit,79
+400277782,2013-11-07,Utah,95,Los Angeles Lakers,86
+400277814,2013-11-11,Los Angeles Lakers,103,Sacramento,90
+400277828,2013-11-13,Los Angeles Lakers,82,San Antonio,84
+400277850,2013-11-16,Los Angeles Lakers,114,Phoenix,102
+400277866,2013-11-18,Los Angeles Lakers,119,Houston,108
+400277889,2013-11-21,Sacramento,113,Los Angeles Lakers,97
+400277897,2013-11-23,Memphis,106,Los Angeles Lakers,98
+400277907,2013-11-24,Dallas,89,Los Angeles Lakers,115
+400277928,2013-11-27,Los Angeles Lakers,77,Indiana,79
+400277952,2013-11-30,Los Angeles Lakers,122,Denver,103
+400277964,2013-12-02,Los Angeles Lakers,103,Orlando,113
+400277976,2013-12-04,Houston,107,Los Angeles Lakers,105
+400277983,2013-12-05,New Orleans,87,Los Angeles Lakers,103
+400278000,2013-12-07,Oklahoma City,114,Los Angeles Lakers,108
+400278017,2013-12-09,Los Angeles Lakers,110,Utah,117
+400278025,2013-12-11,Cleveland,100,Los Angeles Lakers,94
+400278046,2013-12-14,Washington,96,Los Angeles Lakers,102
+400278084,2013-12-18,Los Angeles Lakers,101,Charlotte,100
+400278139,2013-12-26,Denver,126,Los Angeles Lakers,114
+400278155,2013-12-28,Los Angeles Lakers,104,Portland,87
+400278223,2013-01-06,Los Angeles Lakers,105,Denver,112
+400278234,2013-01-08,Houston,125,Los Angeles Lakers,112
+400278242,2013-01-09,San Antonio,108,Los Angeles Lakers,105
+400278259,2013-01-11,Los Angeles Lakers,101,Oklahoma City,116
+400278275,2013-01-13,Los Angeles Lakers,113,Cleveland,93
+400278289,2013-01-15,Los Angeles Lakers,104,Milwaukee,88
+400278303,2013-01-17,Los Angeles Lakers,90,Miami,99
+400278332,2013-01-21,Chicago,95,Los Angeles Lakers,83
+400278341,2013-01-23,Memphis,106,Los Angeles Lakers,93
+400278361,2013-01-25,Los Angeles Lakers,102,Utah,84
+400278373,2013-01-27,Los Angeles Lakers,105,Oklahoma City,96
+400278389,2013-01-29,Los Angeles Lakers,111,New Orleans,106
+400278401,2013-01-30,Phoenix,92,Los Angeles Lakers,86
+400278415,2013-02-01,Minnesota,100,Los Angeles Lakers,111
+400278426,2013-02-03,Detroit,97,Los Angeles Lakers,98
+400278456,2013-02-08,Charlotte,93,Los Angeles Lakers,100
+400278473,2013-02-10,Miami,107,Los Angeles Lakers,97
+400278493,2013-02-12,Los Angeles Lakers,91,Phoenix,85
+400278541,2013-02-22,Los Angeles Lakers,111,Portland,107
+400278550,2013-02-24,Dallas,99,Los Angeles Lakers,103
+400278561,2013-02-25,Denver,119,Los Angeles Lakers,108
+400278583,2013-02-28,Los Angeles Lakers,116,Minnesota,94
+400278608,2013-03-03,Los Angeles Lakers,99,Atlanta,98
+400278617,2013-03-05,Oklahoma City,122,Los Angeles Lakers,105
+400278626,2013-03-06,New Orleans,102,Los Angeles Lakers,108
+400278655,2013-03-10,Los Angeles Lakers,90,Chicago,81
+400278669,2013-03-12,Orlando,97,Los Angeles Lakers,106
+400278680,2013-03-13,Atlanta,96,Los Angeles Lakers,92
+400278691,2013-03-15,Indiana,93,Los Angeles Lakers,99
+400278712,2013-03-17,Los Angeles Lakers,113,Sacramento,102
+400278722,2013-03-18,Phoenix,99,Los Angeles Lakers,76
+400278752,2013-03-22,Los Angeles Lakers,100,Washington,103
+400278786,2013-03-27,Minnesota,117,Los Angeles Lakers,120
+400278791,2013-03-28,Milwaukee,113,Los Angeles Lakers,103
+400277744,2013-11-02,Phoenix Suns,92,Detroit,89
+400277759,2013-11-04,Orlando,115,Phoenix Suns,94
+400277764,2013-11-05,Miami,124,Phoenix Suns,99
+400277773,2013-11-07,Charlotte,110,Phoenix Suns,117
+400277797,2013-11-09,Phoenix Suns,107,Cleveland,105
+400277807,2013-11-10,Utah,94,Phoenix Suns,81
+400277821,2013-11-12,Phoenix Suns,110,Denver,100
+400277836,2013-11-14,Phoenix Suns,106,Chicago,112
+400277858,2013-11-17,Phoenix Suns,88,Miami,97
+400277888,2013-11-21,Phoenix Suns,114,Portland,87
+400277901,2013-11-23,Phoenix Suns,111,New Orleans,108
+400277925,2013-11-27,Cleveland,78,Phoenix Suns,91
+400277933,2013-11-28,Detroit,117,Phoenix Suns,77
+400277975,2013-12-04,Memphis,108,Phoenix Suns,98
+400277989,2013-12-06,Phoenix Suns,94,Dallas,97
+400278016,2013-12-09,Phoenix Suns,90,Orlando,98
+400278040,2013-12-12,Phoenix Suns,82,Memphis,80
+400278054,2013-12-14,Phoenix Suns,99,Utah,84
+400278075,2013-12-17,Phoenix Suns,101,Sacramento,90
+400278093,2013-12-19,Phoenix Suns,121,Charlotte,104
+400278117,2013-12-22,Portland,96,Phoenix Suns,93
+400278146,2013-12-28,Indiana,97,Phoenix Suns,91
+400278164,2013-12-29,Minnesota,111,Phoenix Suns,107
+400278176,2013-12-31,Oklahoma City,114,Phoenix Suns,96
+400278207,2013-01-04,Phoenix Suns,80,Utah,87
+400278222,2013-01-06,Phoenix Suns,81,Memphis,92
+400278233,2013-01-08,Milwaukee,108,Phoenix Suns,99
+400278266,2013-01-12,Chicago,81,Phoenix Suns,97
+400278282,2013-01-14,Phoenix Suns,90,Oklahoma City,102
+400278302,2013-01-17,Phoenix Suns,94,Milwaukee,98
+400278346,2013-01-23,Sacramento,96,Phoenix Suns,106
+400278368,2013-01-26,San Antonio,108,Phoenix Suns,99
+400278377,2013-01-27,Dallas,110,Phoenix Suns,95
+400278414,2013-02-01,Phoenix Suns,99,Dallas,109
+400278437,2013-02-05,Memphis,90,Phoenix Suns,96
+400278448,2013-02-06,New Orleans,93,Phoenix Suns,84
+400278464,2013-02-08,Oklahoma City,127,Phoenix Suns,96
+400278479,2013-02-10,Phoenix Suns,69,Oklahoma City,97
+400278517,2013-02-19,Portland,98,Phoenix Suns,102
+400278556,2013-02-24,Phoenix Suns,87,San Antonio,97
+400278569,2013-02-26,Phoenix Suns,84,Minnesota,83
+400278578,2013-02-27,San Antonio,101,Phoenix Suns,105
+400278594,2013-03-01,Phoenix Suns,92,Atlanta,87
+400278644,2013-03-08,Sacramento,121,Phoenix Suns,112
+400278652,2013-03-09,Phoenix Suns,107,Houston,105
+400278666,2013-03-11,Phoenix Suns,93,Denver,108
+400278681,2013-03-13,Houston,111,Phoenix Suns,81
+400278692,2013-03-15,Atlanta,107,Phoenix Suns,94
+400278699,2013-03-16,Washington,127,Phoenix Suns,105
+400278737,2013-03-20,Phoenix Suns,79,Washington,88
+400278751,2013-03-22,Phoenix Suns,86,Minnesota,117
+400278788,2013-03-27,Utah,103,Phoenix Suns,88
+400278793,2013-03-28,Phoenix Suns,103,Sacramento,117
+400277727,2013-10-31,Chicago,93,Sacramento Kings,87
+400277743,2013-11-02,Minnesota,92,Sacramento Kings,80
+400277748,2013-11-03,Indiana,106,Sacramento Kings,98
+400277783,2013-11-07,Sacramento Kings,105,Detroit,103
+400277798,2013-11-09,Sacramento Kings,86,San Antonio,97
+400277827,2013-11-13,Sacramento Kings,86,Portland,103
+400277848,2013-11-16,Sacramento Kings,96,Atlanta,112
+400277900,2013-11-23,Utah,104,Sacramento Kings,102
+400277909,2013-11-24,Sacramento Kings,108,Utah,97
+400277927,2013-11-27,Sacramento Kings,89,Minnesota,97
+400277951,2013-11-30,Sacramento Kings,92,Indiana,97
+400278001,2013-12-07,Sacramento Kings,91,Orlando,82
+400278011,2013-12-08,Portland,80,Sacramento Kings,99
+400278022,2013-12-10,Dallas,119,Sacramento Kings,96
+400278036,2013-12-12,Milwaukee,98,Sacramento Kings,85
+400278053,2013-12-14,Oklahoma City,113,Sacramento Kings,103
+400278068,2013-12-16,Sacramento Kings,97,Denver,122
+400278124,2013-12-23,Sacramento Kings,108,Portland,96
+400278142,2013-12-26,Portland,109,Sacramento Kings,91
+400278180,2013-01-01,Detroit,103,Sacramento Kings,97
+400278186,2013-01-02,Cleveland,94,Sacramento Kings,97
+400278229,2013-01-07,Sacramento Kings,81,Memphis,113
+400278248,2013-01-10,Sacramento Kings,112,Dallas,117
+400278268,2013-01-12,Sacramento Kings,99,Miami,128
+400278283,2013-01-14,Sacramento Kings,124,Cleveland,118
+400278297,2013-01-16,Sacramento Kings,95,Washington,94
+400278309,2013-01-18,Memphis,85,Sacramento Kings,69
+400278313,2013-01-19,Charlotte,93,Sacramento Kings,97
+400278326,2013-01-21,New Orleans,114,Sacramento Kings,105
+400278360,2013-01-25,Sacramento Kings,95,Oklahoma City,105
+400278369,2013-01-26,Denver,121,Sacramento Kings,93
+400278381,2013-01-28,Washington,94,Sacramento Kings,96
+400278434,2013-02-04,Utah,98,Sacramento Kings,91
+400278471,2013-02-09,Sacramento Kings,120,Utah,109
+400278480,2013-02-10,Sacramento Kings,117,Houston,111
+400278491,2013-02-12,Memphis,108,Sacramento Kings,101
+400278505,2013-02-13,Dallas,123,Sacramento Kings,100
+400278516,2013-02-19,Sacramento Kings,102,San Antonio,108
+400278536,2013-02-22,Atlanta,122,Sacramento Kings,108
+400278554,2013-02-24,New Orleans,110,Sacramento Kings,95
+400278565,2013-02-26,Miami,141,Sacramento Kings,129
+400278571,2013-02-27,Orlando,101,Sacramento Kings,125
+400278592,2013-03-01,San Antonio,130,Sacramento Kings,102
+400278604,2013-03-03,Sacramento Kings,119,Charlotte,83
+400278618,2013-03-05,Sacramento Kings,113,Denver,120
+400278661,2013-03-10,Sacramento Kings,113,Milwaukee,115
+400278683,2013-03-13,Sacramento Kings,121,Chicago,79
+400278741,2013-03-21,Sacramento Kings,101,Minnesota,98
+400278757,2013-03-23,Denver,101,Sacramento Kings,95
+400277739,2013-11-02,Cleveland,86,Chicago Bulls,115
+400277751,2013-11-03,Chicago Bulls,82,New Orleans,89
+400277770,2013-11-06,Chicago Bulls,99,Orlando,93
+400277786,2013-11-08,Chicago Bulls,91,Oklahoma City,97
+400277804,2013-11-10,Chicago Bulls,87,Minnesota,80
+400277865,2013-11-18,Portland,102,Chicago Bulls,94
+400277885,2013-11-21,Houston,93,Chicago Bulls,89
+400277908,2013-11-24,Milwaukee,86,Chicago Bulls,93
+400277919,2013-11-26,Chicago Bulls,92,Milwaukee,93
+400277934,2013-11-28,Chicago Bulls,101,Dallas,78
+400277974,2013-12-04,Chicago Bulls,76,Indiana,80
+400277982,2013-12-05,Cleveland,85,Chicago Bulls,95
+400277994,2013-12-07,Detroit,104,Chicago Bulls,108
+400278073,2013-12-17,Memphis,80,Chicago Bulls,71
+400278111,2013-12-22,Atlanta,92,Chicago Bulls,75
+400278128,2013-12-25,Chicago Bulls,97,Houston,120
+400278161,2013-12-29,Chicago Bulls,87,Washington,77
+400278173,2013-12-31,Chicago Bulls,81,Charlotte,91
+400278185,2013-01-02,Orlando,94,Chicago Bulls,96
+400278201,2013-01-04,Miami,89,Chicago Bulls,96
+400278226,2013-01-07,Chicago Bulls,118,Cleveland,92
+400278240,2013-01-09,Chicago Bulls,96,Milwaukee,104
+400278278,2013-01-14,Chicago Bulls,97,Atlanta,58
+400278315,2013-01-19,Chicago Bulls,82,Memphis,85
+400278340,2013-01-23,Chicago Bulls,85,Detroit,82
+400278364,2013-01-26,Washington,86,Chicago Bulls,73
+400278383,2013-01-28,Chicago Bulls,93,Charlotte,85
+400278396,2013-01-30,Milwaukee,88,Chicago Bulls,104
+400278416,2013-02-02,Atlanta,76,Chicago Bulls,93
+400440940,2013-02-04,Indiana,111,Chicago Bulls,101
+400278454,2013-02-07,Denver,128,Chicago Bulls,96
+400278466,2013-02-08,Utah,89,Chicago Bulls,93
+400278486,2013-02-11,Chicago Bulls,89,San Antonio,103
+400278513,2013-02-19,New Orleans,87,Chicago Bulls,96
+400278529,2013-02-21,Chicago Bulls,67,Miami,86
+400278533,2013-02-22,Charlotte,75,Chicago Bulls,105
+400278558,2013-02-24,Oklahoma City,102,Chicago Bulls,72
+400278566,2013-02-26,Chicago Bulls,98,Cleveland,101
+400278607,2013-03-03,Indiana,97,Chicago Bulls,92
+400278629,2013-03-06,San Antonio,101,Chicago Bulls,83
+400278642,2013-03-08,Chicago Bulls,89,Utah,88
+400278719,2013-03-18,Chicago Bulls,118,Denver,119
+400278739,2013-03-21,Chicago Bulls,89,Portland,99
+400278755,2013-03-23,Chicago Bulls,87,Indiana,84
+400278764,2013-03-24,Minnesota,97,Chicago Bulls,104
+400278782,2013-03-27,Chicago Bulls,101,Miami,97
+400277721,2013-10-30,Cleveland Cavaliers,94,Washington,84
+400277753,2013-11-03,Milwaukee,105,Cleveland Cavaliers,102
+400277813,2013-11-11,Oklahoma City,106,Cleveland Cavaliers,91
+400277855,2013-11-17,Cleveland Cavaliers,95,Dallas,103
+400277892,2013-11-23,Orlando,108,Cleveland Cavaliers,104
+400277906,2013-11-24,Miami,110,Cleveland Cavaliers,108
+400277920,2013-11-26,Memphis,84,Cleveland Cavaliers,78
+400277947,2013-11-30,Atlanta,111,Cleveland Cavaliers,113
+400277954,2013-12-01,Cleveland Cavaliers,117,Portland,118
+400277966,2013-12-03,Detroit,89,Cleveland Cavaliers,79
+400277996,2013-12-07,Minnesota,91,Cleveland Cavaliers,73
+400278007,2013-12-08,Cleveland Cavaliers,97,Detroit,104
+400278031,2013-12-12,Indiana,96,Cleveland Cavaliers,81
+400278049,2013-12-14,Cleveland Cavaliers,86,Milwaukee,90
+400278105,2013-12-21,Cleveland Cavaliers,89,Indiana,99
+400278115,2013-12-22,Milwaukee,82,Cleveland Cavaliers,94
+400278130,2013-12-26,Washington,84,Cleveland Cavaliers,87
+400278149,2013-12-28,Cleveland Cavaliers,94,Atlanta,102
+400278200,2013-01-04,Charlotte,104,Cleveland Cavaliers,106
+400278213,2013-01-05,Cleveland Cavaliers,104,Houston,112
+400278238,2013-01-09,Cleveland Cavaliers,99,Atlanta,83
+400278258,2013-01-11,Denver,98,Cleveland Cavaliers,91
+400278298,2013-01-16,Portland,88,Cleveland Cavaliers,93
+400278318,2013-01-19,Utah,109,Cleveland Cavaliers,98
+400278355,2013-01-25,Cleveland Cavaliers,113,Milwaukee,108
+400278410,2013-02-01,Detroit,117,Cleveland Cavaliers,99
+400278418,2013-02-02,Cleveland Cavaliers,115,Oklahoma City,110
+400278444,2013-02-06,Cleveland Cavaliers,122,Charlotte,95
+400278460,2013-02-08,Cleveland Cavaliers,119,Orlando,108
+400278467,2013-02-09,Cleveland Cavaliers,103,Denver,111
+400278483,2013-02-11,Cleveland Cavaliers,92,Minnesota,100
+400278496,2013-02-13,Cleveland Cavaliers,95,San Antonio,96
+400278520,2013-02-20,Cleveland Cavaliers,105,New Orleans,100
+400278545,2013-02-23,Orlando,94,Cleveland Cavaliers,118
+400278553,2013-02-24,Miami,109,Cleveland Cavaliers,105
+400278620,2013-03-06,Cleveland Cavaliers,104,Utah,101
+400278640,2013-03-08,Cleveland Cavaliers,92,Memphis,103
+400278670,2013-03-12,Cleveland Cavaliers,95,Washington,90
+400278696,2013-03-15,Dallas,96,Cleveland Cavaliers,86
+400278702,2013-03-16,San Antonio,119,Cleveland Cavaliers,113
+400278715,2013-03-18,Cleveland Cavaliers,90,Indiana,111
+400278729,2013-03-20,Cleveland Cavaliers,95,Miami,98
+400278748,2013-03-22,Houston,116,Cleveland Cavaliers,78
+400277726,2013-10-31,Detroit Pistons,96,Houston,105
+400277772,2013-11-06,Denver,109,Detroit Pistons,97
+400277795,2013-11-09,Oklahoma City,105,Detroit Pistons,94
+400277805,2013-11-10,Houston,96,Detroit Pistons,82
+400277817,2013-11-12,Detroit Pistons,90,Oklahoma City,92
+400277843,2013-11-16,Detroit Pistons,106,Orlando,110
+400277878,2013-11-21,Orlando,90,Detroit Pistons,74
+400277918,2013-11-26,Detroit Pistons,108,Portland,101
+400277948,2013-11-30,Memphis,90,Detroit Pistons,78
+400277960,2013-12-01,Dallas,92,Detroit Pistons,77
+400278026,2013-12-11,Detroit Pistons,94,Denver,101
+400278060,2013-12-15,Detroit Pistons,77,Indiana,88
+400278104,2013-12-21,Detroit Pistons,100,Washington,68
+400278110,2013-12-22,Washington,87,Detroit Pistons,96
+400278134,2013-12-26,Atlanta,126,Detroit Pistons,119
+400278148,2013-12-28,Detroit Pistons,109,Miami,99
+400278168,2013-12-30,Detroit Pistons,96,Milwaukee,94
+400278202,2013-01-04,Detroit Pistons,85,Atlanta,84
+400278221,2013-01-06,Detroit Pistons,101,Charlotte,108
+400278257,2013-01-11,Milwaukee,87,Detroit Pistons,103
+400278265,2013-01-12,Detroit Pistons,87,Utah,90
+400278335,2013-01-22,Detroit Pistons,105,Orlando,90
+400278354,2013-01-25,Miami,110,Detroit Pistons,88
+400278374,2013-01-27,Orlando,102,Detroit Pistons,104
+400278387,2013-01-29,Detroit Pistons,90,Milwaukee,117
+400278391,2013-01-30,Indiana,98,Detroit Pistons,79
+400278459,2013-02-08,Detroit Pistons,119,San Antonio,109
+400278469,2013-02-09,Milwaukee,100,Detroit Pistons,105
+400278485,2013-02-11,Detroit Pistons,86,New Orleans,105
+400278501,2013-02-13,Detroit Pistons,96,Washington,85
+400278512,2013-02-19,Detroit Pistons,91,Memphis,105
+400278519,2013-02-20,Charlotte,99,Detroit Pistons,105
+400278534,2013-02-22,Indiana,114,Detroit Pistons,82
+400278547,2013-02-23,Detroit Pistons,72,Indiana,90
+400278560,2013-02-25,Detroit Pistons,103,Atlanta,114
+400278574,2013-02-27,Washington,95,Detroit Pistons,96
+400278591,2013-03-01,New Orleans,100,Detroit Pistons,95
+400278606,2013-03-03,San Antonio,114,Detroit Pistons,75
+400278639,2013-03-08,Detroit Pistons,99,Dallas,102
+400278665,2013-03-11,Utah,103,Detroit Pistons,90
+400278704,2013-03-16,Portland,112,Detroit Pistons,101
+400278746,2013-03-22,Miami,103,Detroit Pistons,89
+400278753,2013-03-23,Charlotte,91,Detroit Pistons,92
+400278775,2013-03-26,Detroit Pistons,82,Minnesota,105
+400277735,2013-11-02,Charlotte,90,Indiana Pacers,89
+400277767,2013-11-05,San Antonio,101,Indiana Pacers,79
+400277775,2013-11-07,Atlanta,89,Indiana Pacers,86
+400277796,2013-11-09,Minnesota,96,Indiana Pacers,94
+400277802,2013-11-10,Indiana Pacers,89,Washington,85
+400277831,2013-11-14,Milwaukee,99,Indiana Pacers,85
+400277844,2013-11-16,Indiana Pacers,103,Dallas,83
+400277867,2013-11-19,Washington,89,Indiana Pacers,96
+400277880,2013-11-21,Indiana Pacers,115,New Orleans,107
+400277896,2013-11-23,Indiana Pacers,97,San Antonio,104
+400277978,2013-12-05,Indiana Pacers,99,Portland,92
+400277991,2013-12-07,Indiana Pacers,89,Denver,92
+400278014,2013-12-09,Oklahoma City,104,Indiana Pacers,93
+400278081,2013-12-18,Milwaukee,98,Indiana Pacers,93
+400278089,2013-12-19,Indiana Pacers,104,Utah,84
+400278113,2013-12-22,New Orleans,75,Indiana Pacers,81
+400278158,2013-12-29,Atlanta,109,Indiana Pacers,100
+400278172,2013-12-31,Indiana Pacers,88,Memphis,83
+400278187,2013-01-02,Indiana Pacers,89,Washington,81
+400278211,2013-01-05,Indiana Pacers,95,Milwaukee,80
+400278232,2013-01-08,Indiana Pacers,87,Miami,77
+400278263,2013-01-12,Indiana Pacers,96,Charlotte,88
+400278285,2013-01-15,Charlotte,76,Indiana Pacers,103
+400278291,2013-01-16,Orlando,97,Indiana Pacers,86
+400278307,2013-01-18,Indiana Pacers,105,Houston,95
+400278325,2013-01-21,Memphis,81,Indiana Pacers,82
+400278347,2013-01-23,Portland,100,Indiana Pacers,80
+400278370,2013-01-26,Utah,114,Indiana Pacers,110
+400278384,2013-01-28,Denver,102,Indiana Pacers,101
+400278405,2013-02-01,Indiana Pacers,102,Miami,89
+400278435,2013-02-05,Indiana Pacers,114,Atlanta,103
+400278497,2013-02-13,Indiana Pacers,101,Charlotte,77
+400278636,2013-03-08,Orlando,86,Indiana Pacers,115
+400278658,2013-03-10,Miami,105,Indiana Pacers,91
+400278678,2013-03-13,Indiana Pacers,107,Minnesota,91
+400278724,2013-03-19,Indiana Pacers,95,Orlando,73
+400278744,2013-03-22,Indiana Pacers,102,Milwaukee,78
+400278770,2013-03-25,Indiana Pacers,100,Atlanta,94
+400278784,2013-03-27,Houston,91,Indiana Pacers,100
+400278792,2013-03-28,Dallas,78,Indiana Pacers,103
+400277777,2013-11-07,Milwaukee Bucks,90,Memphis,108
+400277788,2013-11-09,Washington,91,Milwaukee Bucks,101
+400277856,2013-11-17,Milwaukee Bucks,117,New Orleans,113
+400277868,2013-11-19,Charlotte,102,Milwaukee Bucks,98
+400277883,2013-11-21,Miami,113,Milwaukee Bucks,106
+400277950,2013-11-30,Minnesota,95,Milwaukee Bucks,85
+400277967,2013-12-03,New Orleans,102,Milwaukee Bucks,81
+400277984,2013-12-05,San Antonio,110,Milwaukee Bucks,99
+400277997,2013-12-07,Milwaukee Bucks,108,Charlotte,93
+400278094,2013-12-19,Memphis,90,Milwaukee Bucks,80
+400278165,2013-12-29,Milwaukee Bucks,104,Miami,85
+400278190,2013-01-02,Milwaukee Bucks,110,San Antonio,117
+400278206,2013-01-04,Milwaukee Bucks,101,Houston,115
+400278319,2013-01-19,Portland,104,Milwaukee Bucks,110
+400278421,2013-02-02,Milwaukee Bucks,107,Orlando,98
+400278439,2013-02-05,Denver,112,Milwaukee Bucks,104
+400278452,2013-02-06,Utah,100,Milwaukee Bucks,86
+400278487,2013-02-11,Milwaukee Bucks,90,Washington,102
+400278548,2013-02-23,Milwaukee Bucks,102,Atlanta,103
+400278568,2013-02-26,Dallas,90,Milwaukee Bucks,95
+400278576,2013-02-27,Houston,107,Milwaukee Bucks,110
+400278610,2013-03-04,Milwaukee Bucks,109,Utah,108
+400278673,2013-03-12,Milwaukee Bucks,108,Dallas,115
+400278677,2013-03-13,Washington,106,Milwaukee Bucks,93
+400278695,2013-03-15,Milwaukee Bucks,94,Miami,107
+400278706,2013-03-17,Milwaukee Bucks,115,Orlando,109
+400278725,2013-03-19,Milwaukee Bucks,102,Portland,95
+400278731,2013-03-20,Atlanta,98,Milwaukee Bucks,90
+400278760,2013-03-24,Milwaukee Bucks,99,Atlanta,104
+400277729,2013-10-31,Utah,113,Dallas Mavericks,94
+400277754,2013-11-03,Dallas Mavericks,126,Charlotte,99
+400277766,2013-11-05,Dallas Mavericks,114,Portland,91
+400277803,2013-11-10,Charlotte,101,Dallas Mavericks,97
+400277820,2013-11-12,Dallas Mavericks,82,Minnesota,90
+400277835,2013-11-14,Dallas Mavericks,107,Washington,101
+400278010,2013-12-08,Houston,109,Dallas Mavericks,116
+400278062,2013-12-15,Minnesota,114,Dallas Mavericks,106
+400278098,2013-12-20,Dallas Mavericks,95,Miami,110
+400278106,2013-12-21,Memphis,92,Dallas Mavericks,82
+400278122,2013-12-23,San Antonio,129,Dallas Mavericks,91
+400278143,2013-12-27,Oklahoma City,111,Dallas Mavericks,105
+400278151,2013-12-28,Dallas Mavericks,85,Denver,106
+400278169,2013-12-30,Dallas Mavericks,86,San Antonio,111
+400278178,2013-01-01,Washington,94,Dallas Mavericks,103
+400278189,2013-01-02,Miami,119,Dallas Mavericks,109
+400278215,2013-01-05,Dallas Mavericks,96,New Orleans,99
+400278228,2013-01-07,Utah,100,Dallas Mavericks,94
+400278267,2013-01-12,Dallas Mavericks,104,Memphis,83
+400278280,2013-01-14,Dallas Mavericks,113,Minnesota,98
+400278295,2013-01-16,Dallas Mavericks,105,Houston,100
+400278312,2013-01-18,Dallas Mavericks,114,Oklahoma City,117
+400278322,2013-01-20,Orlando,105,Dallas Mavericks,111
+400278359,2013-01-25,Dallas Mavericks,107,San Antonio,113
+400278388,2013-01-29,Portland,106,Dallas Mavericks,104
+400278432,2013-02-04,Oklahoma City,112,Dallas Mavericks,91
+400278450,2013-02-06,Dallas Mavericks,105,Portland,99
+400278488,2013-02-11,Dallas Mavericks,101,Atlanta,105
+400278526,2013-02-20,Dallas Mavericks,111,Orlando,96
+400278538,2013-02-22,New Orleans,100,Dallas Mavericks,104
+400278575,2013-02-27,Memphis,90,Dallas Mavericks,84
+400278605,2013-03-03,Houston,136,Dallas Mavericks,103
+400278628,2013-03-06,Dallas Mavericks,112,Houston,108
+400278660,2013-03-10,Minnesota,77,Dallas Mavericks,100
+400278687,2013-03-14,San Antonio,92,Dallas Mavericks,91
+400278710,2013-03-17,Dallas Mavericks,101,Oklahoma City,107
+400278716,2013-03-18,Atlanta,113,Dallas Mavericks,127
+400278765,2013-03-24,Dallas Mavericks,113,Utah,108
+400277738,2013-11-02,Atlanta,102,Houston Rockets,109
+400277752,2013-11-03,Houston Rockets,85,Portland,95
+400277779,2013-11-07,Houston Rockets,87,Denver,93
+400277793,2013-11-09,Memphis,93,Houston Rockets,85
+400277819,2013-11-12,Houston Rockets,110,Miami,113
+400277832,2013-11-14,Houston Rockets,100,New Orleans,96
+400277849,2013-11-16,Portland,119,Houston Rockets,117
+400277873,2013-11-19,Utah,102,Houston Rockets,91
+400277938,2013-11-28,Oklahoma City,120,Houston Rockets,98
+400277957,2013-12-01,Houston Rockets,124,Utah,116
+400277998,2013-12-07,San Antonio,114,Houston Rockets,92
+400278021,2013-12-10,Houston Rockets,126,San Antonio,134
+400278037,2013-12-12,Houston Rockets,99,Washington,93
+400278114,2013-12-22,Houston Rockets,121,Memphis,96
+400278137,2013-12-26,Minnesota,84,Houston Rockets,87
+400278152,2013-12-28,San Antonio,122,Houston Rockets,116
+400278163,2013-12-29,Houston Rockets,94,Oklahoma City,124
+400278175,2013-12-31,Houston Rockets,123,Atlanta,104
+400278191,2013-01-02,Houston Rockets,104,New Orleans,92
+400278241,2013-01-09,New Orleans,88,Houston Rockets,79
+400278317,2013-01-19,Minnesota,92,Houston Rockets,79
+400278327,2013-01-21,Charlotte,94,Houston Rockets,100
+400278342,2013-01-23,Houston Rockets,95,Denver,105
+400278358,2013-01-25,New Orleans,82,Houston Rockets,100
+400278385,2013-01-28,Utah,80,Houston Rockets,125
+400278399,2013-01-30,Denver,118,Houston Rockets,110
+400278419,2013-02-02,Houston Rockets,109,Charlotte,95
+400278446,2013-02-06,Miami,114,Houston Rockets,108
+400278463,2013-02-08,Houston Rockets,118,Portland,103
+400278524,2013-02-20,Houston Rockets,122,Oklahoma City,119
+400278543,2013-02-23,Washington,105,Houston Rockets,103
+400278586,2013-03-01,Orlando,110,Houston Rockets,118
+400278693,2013-03-15,Houston Rockets,108,Minnesota,100
+400278734,2013-03-20,Houston Rockets,100,Utah,93
+400278762,2013-03-24,Houston Rockets,96,San Antonio,95
+400278799,2013-03-29,Memphis,103,Houston Rockets,94
+400277765,2013-11-05,Memphis Grizzlies,103,Utah,94
+400277812,2013-11-11,Memphis Grizzlies,104,Miami,86
+400277833,2013-11-14,Oklahoma City,97,Memphis Grizzlies,107
+400277854,2013-11-17,Charlotte,87,Memphis Grizzlies,94
+400277870,2013-11-19,Memphis Grizzlies,92,Denver,97
+400277959,2013-12-01,San Antonio,99,Memphis Grizzlies,95
+400277995,2013-12-07,New Orleans,89,Memphis Grizzlies,96
+400278009,2013-12-08,Memphis Grizzlies,83,Atlanta,93
+400278055,2013-12-14,Denver,99,Memphis Grizzlies,94
+400278065,2013-12-15,Utah,86,Memphis Grizzlies,99
+400278162,2013-12-29,Memphis Grizzlies,81,Denver,72
+400278204,2013-01-04,Memphis Grizzlies,84,Portland,86
+400278255,2013-01-11,Memphis Grizzlies,101,San Antonio,98
+400278296,2013-01-16,San Antonio,103,Memphis Grizzlies,82
+400278375,2013-01-27,Memphis Grizzlies,83,New Orleans,91
+400278402,2013-01-31,Oklahoma City,106,Memphis Grizzlies,89
+400278411,2013-02-01,Memphis Grizzlies,85,Washington,76
+400278445,2013-02-06,Atlanta,103,Memphis Grizzlies,92
+400278477,2013-02-10,Memphis Grizzlies,105,Minnesota,88
+400278537,2013-02-22,Memphis Grizzlies,88,Orlando,82
+400278588,2013-03-01,Miami,98,Memphis Grizzlies,91
+400278603,2013-03-03,Orlando,82,Memphis Grizzlies,108
+400278625,2013-03-06,Memphis Grizzlies,91,Portland,85
+400278650,2013-03-09,Memphis Grizzlies,96,New Orleans,85
+400278675,2013-03-12,Portland,97,Memphis Grizzlies,102
+400278697,2013-03-15,Denver,87,Memphis Grizzlies,80
+400278703,2013-03-16,Utah,90,Memphis Grizzlies,84
+400278720,2013-03-18,Memphis Grizzlies,92,Minnesota,77
+400278732,2013-03-20,Memphis Grizzlies,90,Oklahoma City,89
+400278747,2013-03-22,New Orleans,90,Memphis Grizzlies,83
+400278768,2013-03-25,Washington,107,Memphis Grizzlies,94
+400277728,2013-10-31,New Orleans Hornets,95,San Antonio,99
+400277741,2013-11-02,New Orleans Hornets,88,Utah,86
+400277794,2013-11-09,New Orleans Hornets,107,Charlotte,99
+400277845,2013-11-16,New Orleans Hornets,95,Oklahoma City,110
+400277916,2013-11-25,Denver,102,New Orleans Hornets,84
+400277937,2013-11-28,New Orleans Hornets,84,Utah,96
+400277956,2013-12-01,New Orleans Hornets,79,Oklahoma City,100
+400278006,2013-12-08,Miami,106,New Orleans Hornets,90
+400278027,2013-12-11,New Orleans Hornets,70,Washington,77
+400278038,2013-12-12,Oklahoma City,92,New Orleans Hornets,88
+400278051,2013-12-14,New Orleans Hornets,102,Minnesota,113
+400278069,2013-12-16,Portland,95,New Orleans Hornets,94
+400278107,2013-12-21,San Antonio,99,New Orleans Hornets,94
+400278132,2013-12-26,Orlando,94,New Orleans Hornets,97
+400278157,2013-12-29,Charlotte,95,New Orleans Hornets,98
+400278181,2013-01-01,New Orleans Hornets,86,Atlanta,95
+400278227,2013-01-07,New Orleans Hornets,95,San Antonio,88
+400278256,2013-01-11,New Orleans Hornets,104,Minnesota,92
+400278344,2013-01-23,San Antonio,106,New Orleans Hornets,102
+400278400,2013-01-30,Utah,104,New Orleans Hornets,99
+400278412,2013-02-01,Denver,113,New Orleans Hornets,98
+400278420,2013-02-02,Minnesota,115,New Orleans Hornets,86
+400278458,2013-02-08,Atlanta,100,New Orleans Hornets,111
+400278503,2013-02-13,New Orleans Hornets,99,Portland,63
+400278577,2013-02-27,Oklahoma City,119,New Orleans Hornets,74
+400278611,2013-03-04,New Orleans Hornets,102,Orlando,105
+400278659,2013-03-10,New Orleans Hornets,98,Portland,96
+400278690,2013-03-15,Washington,96,New Orleans Hornets,87
+400278709,2013-03-17,Minnesota,97,New Orleans Hornets,95
+400278771,2013-03-25,New Orleans Hornets,110,Denver,86
+400278800,2013-03-29,New Orleans Hornets,89,Miami,108
+400277734,2013-11-01,San Antonio Spurs,86,Oklahoma City,84
+400277755,2013-11-03,San Antonio Spurs,110,Utah,100
+400277808,2013-11-10,Portland,109,San Antonio Spurs,112
+400277857,2013-11-17,San Antonio Spurs,126,Denver,100
+400277917,2013-11-26,Washington,92,San Antonio Spurs,118
+400277930,2013-11-28,Orlando,89,San Antonio Spurs,110
+400277940,2013-11-29,Miami,105,San Antonio Spurs,100
+400278004,2013-12-08,Charlotte,102,San Antonio Spurs,132
+400278041,2013-12-12,Utah,99,San Antonio Spurs,96
+400278044,2013-12-13,Portland,98,San Antonio Spurs,90
+400278074,2013-12-17,Oklahoma City,107,San Antonio Spurs,93
+400278083,2013-12-18,Denver,112,San Antonio Spurs,106
+400278272,2013-01-13,San Antonio Spurs,106,Minnesota,88
+400278314,2013-01-19,Atlanta,93,San Antonio Spurs,98
+400278398,2013-01-30,San Antonio Spurs,102,Charlotte,78
+400278422,2013-02-02,San Antonio Spurs,96,Washington,86
+400278451,2013-02-06,Minnesota,94,San Antonio Spurs,104
+400278643,2013-03-08,San Antonio Spurs,106,Portland,136
+400278664,2013-03-11,San Antonio Spurs,105,Oklahoma City,93
+400278674,2013-03-12,Minnesota,107,San Antonio Spurs,83
+400278750,2013-03-22,San Antonio Spurs,104,Utah,97
+400278787,2013-03-27,San Antonio Spurs,100,Denver,99
+400277760,2013-11-04,Oklahoma City,95,Atlanta Hawks,104
+400277792,2013-11-09,Atlanta Hawks,89,Miami,95
+400277822,2013-11-12,Portland,87,Atlanta Hawks,95
+400277869,2013-11-19,Atlanta Hawks,81,Orlando,72
+400277882,2013-11-21,Atlanta Hawks,101,Washington,100
+400277891,2013-11-23,Charlotte,91,Atlanta Hawks,101
+400277932,2013-11-28,Atlanta Hawks,94,Charlotte,91
+400277980,2013-12-05,Atlanta Hawks,108,Denver,104
+400277993,2013-12-07,Atlanta Hawks,104,Washington,95
+400278020,2013-12-10,Miami,101,Atlanta Hawks,92
+400278030,2013-12-12,Orlando,80,Atlanta Hawks,86
+400278042,2013-12-13,Atlanta Hawks,113,Charlotte,90
+400278076,2013-12-18,Washington,95,Atlanta Hawks,100
+400278091,2013-12-19,Atlanta Hawks,92,Oklahoma City,100
+400278235,2013-01-08,Minnesota,108,Atlanta Hawks,103
+400278253,2013-01-11,Atlanta Hawks,103,Utah,95
+400278262,2013-01-12,Washington,93,Atlanta Hawks,83
+400278328,2013-01-21,Atlanta Hawks,104,Minnesota,96
+400278338,2013-01-23,Charlotte,92,Atlanta Hawks,104
+400278495,2013-02-13,Orlando,76,Atlanta Hawks,108
+400278522,2013-02-20,Atlanta Hawks,90,Miami,103
+400278579,2013-02-27,Utah,91,Atlanta Hawks,102
+400278613,2013-03-04,Denver,104,Atlanta Hawks,88
+400278672,2013-03-12,Miami,98,Atlanta Hawks,81
+400278745,2013-03-22,Atlanta Hawks,93,Portland,104
+400277823,2013-11-13,Charlotte Bobcats,92,Washington,76
+400277834,2013-11-14,Minnesota,87,Charlotte Bobcats,89
+400277904,2013-11-24,Washington,106,Charlotte Bobcats,108
+400277921,2013-11-26,Oklahoma City,114,Charlotte Bobcats,69
+400277965,2013-12-03,Charlotte Bobcats,112,Portland,118
+400278056,2013-12-15,Charlotte Bobcats,98,Orlando,107
+400278116,2013-12-22,Denver,110,Charlotte Bobcats,88
+400278131,2013-12-26,Charlotte Bobcats,92,Miami,105
+400278237,2013-01-09,Charlotte Bobcats,102,Utah,112
+400278306,2013-01-18,Orlando,100,Charlotte Bobcats,106
+400278365,2013-01-26,Charlotte Bobcats,102,Minnesota,101
+400278431,2013-02-04,Miami,99,Charlotte Bobcats,94
+400278510,2013-02-19,Orlando,92,Charlotte Bobcats,105
+400278544,2013-02-23,Charlotte Bobcats,99,Denver,113
+400278593,2013-03-01,Utah,98,Charlotte Bobcats,68
+400278614,2013-03-04,Portland,122,Charlotte Bobcats,105
+400278635,2013-03-08,Charlotte Bobcats,94,Oklahoma City,116
+400278649,2013-03-09,Washington,104,Charlotte Bobcats,87
+400278714,2013-03-18,Charlotte Bobcats,119,Washington,114
+400278761,2013-03-24,Miami,109,Charlotte Bobcats,77
+400278779,2013-03-27,Charlotte Bobcats,114,Orlando,108
+400277750,2013-11-03,Miami Heat,119,Denver,116
+400277841,2013-11-15,Denver,93,Miami Heat,98
+400277972,2013-12-04,Washington,105,Miami Heat,101
+400278059,2013-12-15,Miami Heat,102,Washington,72
+400278079,2013-12-18,Miami Heat,103,Minnesota,92
+400278112,2013-12-22,Miami Heat,105,Utah,89
+400278127,2013-12-25,Miami Heat,103,Oklahoma City,97
+400278174,2013-12-31,Orlando,110,Miami Heat,112
+400278220,2013-01-06,Miami Heat,99,Washington,71
+400278249,2013-01-10,Portland,92,Miami Heat,90
+400278281,2013-01-14,Utah,104,Miami Heat,97
+400278490,2013-02-12,Miami Heat,117,Portland,104
+400278507,2013-02-14,Oklahoma City,100,Miami Heat,110
+400278612,2013-03-04,Minnesota,81,Miami Heat,97
+400278623,2013-03-06,Miami Heat,97,Orlando,96
+400278769,2013-03-25,Orlando,94,Miami Heat,108
+400277736,2013-11-02,Orlando Magic,102,Denver,89
+400277780,2013-11-07,Minnesota,90,Orlando Magic,75
+400277985,2013-12-05,Utah,87,Orlando Magic,81
+400278070,2013-12-17,Orlando Magic,102,Minnesota,93
+400278088,2013-12-19,Orlando Magic,90,Washington,83
+400278121,2013-12-23,Orlando Magic,93,Utah,97
+400278145,2013-12-28,Washington,105,Orlando Magic,97
+400278230,2013-01-07,Portland,125,Orlando Magic,119
+400278244,2013-01-09,Denver,108,Orlando Magic,105
+400278276,2013-01-14,Washington,120,Orlando Magic,91
+400278476,2013-02-10,Orlando Magic,110,Portland,104
+400278694,2013-03-15,Oklahoma City,117,Orlando Magic,104
+400278743,2013-03-22,Orlando Magic,89,Oklahoma City,97
+400278794,2013-03-29,Orlando Magic,97,Washington,92
+400277853,2013-11-17,Washington Wizards,76,Utah,83
+400277929,2013-11-28,Washington Wizards,84,Portland,82
+400278224,2013-01-07,Washington Wizards,101,Oklahoma City,99
+400278311,2013-01-18,Denver,108,Washington Wizards,112
+400278333,2013-01-21,Portland,95,Washington Wizards,98
+400278345,2013-01-23,Utah,92,Washington Wizards,88
+400278352,2013-01-25,Washington Wizards,114,Minnesota,101
+400278532,2013-02-22,Washington Wizards,119,Denver,113
+400278627,2013-03-06,Minnesota,87,Washington Wizards,82
+400278785,2013-03-27,Oklahoma City,103,Washington Wizards,80
+400277799,2013-11-09,Denver Nuggets,104,Utah,84
+400277886,2013-11-21,Minnesota,94,Denver Nuggets,101
+400277922,2013-11-26,Utah,105,Denver Nuggets,103
+400278039,2013-12-12,Minnesota,108,Denver Nuggets,105
+400278099,2013-12-20,Portland,101,Denver Nuggets,93
+400278197,2013-01-03,Denver Nuggets,97,Minnesota,101
+400278217,2013-01-05,Denver Nuggets,110,Utah,91
+400278288,2013-01-15,Denver Nuggets,115,Portland,111
+400278294,2013-01-16,Oklahoma City,117,Denver Nuggets,97
+400278324,2013-01-20,Denver Nuggets,121,Oklahoma City,118
+400278580,2013-02-27,Portland,109,Denver Nuggets,111
+400278595,2013-03-01,Denver Nuggets,105,Oklahoma City,103
+400278651,2013-03-09,Denver Nuggets,111,Minnesota,88
+400278726,2013-03-19,Oklahoma City,104,Denver Nuggets,114
+400277902,2013-11-23,Portland,103,Minnesota Timberwolves,95
+400278097,2013-12-20,Minnesota Timberwolves,99,Oklahoma City,93
+400278193,2013-01-02,Utah,106,Minnesota Timberwolves,84
+400278214,2013-01-05,Minnesota Timberwolves,97,Portland,102
+400278243,2013-01-09,Oklahoma City,106,Minnesota Timberwolves,84
+400278433,2013-02-04,Minnesota Timberwolves,98,Portland,100
+400278504,2013-02-13,Minnesota Timberwolves,93,Utah,97
+400278539,2013-02-22,Oklahoma City,127,Minnesota Timberwolves,111
+400278599,2013-03-02,Portland,109,Minnesota Timberwolves,94
+400278801,2013-03-29,Minnesota Timberwolves,101,Oklahoma City,93
+400277742,2013-11-02,Oklahoma City Thunder,106,Portland,92
+400277949,2013-11-30,Oklahoma City Thunder,106,Utah,94
+400278274,2013-01-13,Portland,83,Oklahoma City Thunder,87
+400278492,2013-02-12,Utah,109,Oklahoma City Thunder,94
+400278682,2013-03-13,Oklahoma City Thunder,110,Utah,87
+400278763,2013-03-24,Oklahoma City Thunder,103,Portland,83
+400278413,2013-02-01,Utah,86,Portland Trail Blazers,77
+400278423,2013-02-02,Portland Trail Blazers,105,Utah,99
+400278804,2013-03-29,Portland Trail Blazers,95,Utah,105
