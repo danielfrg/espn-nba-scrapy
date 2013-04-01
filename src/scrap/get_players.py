@@ -36,8 +36,8 @@ def get_players(players, team_name):
         frame = frame.append(new)
     return frame
 
+# for index, row in games[:1].iterrows():
 for index, row in games.iterrows():
-# for index, row in games.iterrows():
     print(index)
     request = requests.get(BASE_URL.format(index))
     table = BeautifulSoup(request.text).find('table', class_='mod-data')
@@ -54,5 +54,6 @@ for index, row in games.iterrows():
     team_2_players = get_players(team_2_players, team_2)
     players = players.append(team_2_players)
 
-# print(players)
+players = players.set_index('id')
+print(players)
 copper.save(players, 'players')
