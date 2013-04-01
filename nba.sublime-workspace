@@ -519,6 +519,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/scrap/get_players.py",
+			"settings":
+			{
+				"buffer_size": 1964,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Python Virtual env",
 	"command_palette":
@@ -769,6 +777,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"matches",
 			"team_2",
 			"team_1",
 			"-",
@@ -895,8 +904,7 @@
 			"DatasetTest",
 			"test_1_role",
 			"sol.csv",
-			"'''\n",
-			"var"
+			"'''\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -914,8 +922,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/scrap/get_players.py",
+					"settings":
+					{
+						"buffer_size": 1964,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1002,7 +1039,7 @@
 		[
 			[
 				"",
-				"/home/danielfrg/projects/copper/copper.sublime-project"
+				"/home/danielfrg/projects/blog/__source__/blog.sublime-project"
 			],
 			[
 				"blo",

@@ -56,6 +56,6 @@ for index, row in teams.iterrows():
 dic = {'id': match_id, 'date': dates, 'home_team': home_team, 'visit_team': visit_team, 
         'home_team_score': home_team_score, 'visit_team_score': visit_team_score}
         
-matches = pd.DataFrame(dic).drop_duplicates(cols='id').set_index('id')
-print(matches)
-copper.save(matches, 'matches')
+games = pd.DataFrame(dic).drop_duplicates(cols='id').set_index('id')
+print(games)
+copper.save(games, 'games')
