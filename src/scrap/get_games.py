@@ -29,7 +29,10 @@ for index, row in teams.iterrows():
         try: 
             _id = columns[2].a['href'].split('?id=')[1]
             _home = True if columns[1].li.text == 'vs' else False
-            _other_team = columns[1].find_all('a')[1].text
+            _other_team = columns[1].find_all('a')[1]['href']
+            _other_team = _other_team.split('/')[-1:][0]
+            _other_team = teams['name'][teams['prefix_2'] == _other_team]
+            _other_team = _other_team.values[0]
             _score = columns[2].a.text.split(' ')[0].split('-')
             _won = True if columns[2].span.text == 'W' else False
 
@@ -79,4 +82,4 @@ dic = {'id': game_id, 'date': dates, 'home_team': home_team, 'visit_team': visit
         
 games = pd.DataFrame(dic).drop_duplicates(cols='id').set_index('id')
 print(games)
-copper.save(games, 'games')
+copper.save(games, 'games.csv')

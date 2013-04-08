@@ -31,13 +31,13 @@ def get_players(players, team_name):
     
     frame = pd.DataFrame(columns=columns)
     for x in array:
-        row = np.concatenate(([index, team_name], x)).reshape(1,len(columns))
-        new = pd.DataFrame(row, columns=frame.columns)
+        line = np.concatenate(([index, team_name], x)).reshape(1,len(columns))
+        new = pd.DataFrame(line, columns=frame.columns)
         frame = frame.append(new)
     return frame
 
-# for index, row in games[:1].iterrows():
-for index, row in games.iterrows():
+for index, row in games[:3].iterrows():
+# for index, row in games.iterrows():
     print(index)
     request = requests.get(BASE_URL.format(index))
     table = BeautifulSoup(request.text).find('table', class_='mod-data')
